@@ -1,0 +1,168 @@
+site_name: Horticulture Foundations
+theme:
+  name: material
+  palette:
+    scheme: default
+
+markdown_extensions:
+  - toc:
+      title: On this page
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+
+nav:
+  - Introduction: index.md
+  - Patterns:
+    - Plant Health Lifecycle Management: patterns/plant-health-lifecycle-management.md
+    - Integrated Plant Protection Cycle: patterns/integrated-plant-protection-cycle.md
+    - Sustainability Maturation Pathway: patterns/sustainability-maturation-pathway.md
+    - Production System Lifecycle: patterns/production-system-lifecycle.md
+    - Resource Optimization Cycle: patterns/resource-optimization-cycle.md
+    - Digital Maturity Progression: patterns/digital-maturity-progression.md
+    - Business Establishment and Governance Lifecycle: patterns/business-establishment-and-governance-lifecycle.md
+    - Regulatory Compliance Maturity Pathway: patterns/regulatory-compliance-maturity-pathway.md
+    - Professional Workforce Development Cycle: patterns/professional-workforce-development-cycle.md
+  - Concerns:
+    - Overview: concerns/overview.md
+    - Biological Systems:
+      - Overview: concerns/biological-systems/index.md
+      - 'Plant Health & Development': concerns/biological-systems/plant-health-development.md
+      - Growing Environment: concerns/biological-systems/growing-environment.md
+      - IPM: concerns/biological-systems/plant-protection.md
+      - Biosecurity: concerns/biological-systems/biosecurity-ecosystem-health.md
+      - Environmental Sustainability: concerns/biological-systems/sustainability-environmental-stewardship.md
+    - Production Operations:
+      - Overview: concerns/production-operations/index.md
+      - CEA System Design: concerns/production-operations/production-system-architecture.md
+      - Technical Infrastructure: concerns/production-operations/technical-infrastructure.md
+      - Water-Energy-Nutrient Nexus: concerns/production-operations/resource-management.md
+      - Precision Agriculture Technology: concerns/production-operations/digital-integration.md
+    - Professional Practice:
+      - Overview: concerns/professional-practice/index.md
+      - Enterprise Management:
+        - concerns/professional-practice/business-operations-governance.md
+        - Workforce Development: concerns/professional-practice/workforce-development.md
+        - 'Client & Stakeholder Management': concerns/professional-practice/client-stakeholder-management.md
+        - Financial Management: concerns/professional-practice/financial-management.md
+      - Legal and Standards Framework:
+        - concerns/professional-practice/regulatory-compliance-standards.md
+        - 'Health & Safety Management': concerns/professional-practice/health-safety-management.md
+  - Activities:
+    - Overview: activities/overview.md
+    - Biological Systems:
+      - Overview: activities/biological-systems/index.md
+      - 'Establish & Manage Growing Environments':
+        - Overview: activities/biological-systems/establish-manage-growing-environments/index.md
+        - Characterise and Formulate Growing Media: activities/biological-systems/establish-manage-growing-environments/characterise-and-formulate-growing-media.md
+        - Monitor Root Zone and Aerial Environment: activities/biological-systems/establish-manage-growing-environments/monitor-root-zone-and-aerial-environment.md
+        - Implement Peat-Free Growing Media Transition: activities/biological-systems/establish-manage-growing-environments/implement-peat-free-growing-media-transition.md
+      - 'Cultivate & Maintain Plant Health':
+        - Overview: activities/biological-systems/cultivate-maintain-plant-health/index.md
+        - Conduct Plant Health Assessment: activities/biological-systems/cultivate-maintain-plant-health/conduct-plant-health-assessment.md
+      - 'Protect Plants & Ecosystems':
+        - Overview: activities/biological-systems/protect-plants-ecosystems/index.md
+        - Perform Pest and Disease Scouting: activities/biological-systems/protect-plants-ecosystems/perform-pest-and-disease-scouting.md
+        - Deploy Biological Control Agents: activities/biological-systems/protect-plants-ecosystems/deploy-biological-control-agents.md
+        - Implement Biosecurity Protocols: activities/biological-systems/protect-plants-ecosystems/implement-biosecurity-protocols.md
+        - Conduct Rapid Field Diagnostics: activities/biological-systems/protect-plants-ecosystems/conduct-rapid-field-diagnostics.md
+        - Design and Establish Pollinator Habitat: activities/biological-systems/protect-plants-ecosystems/design-and-establish-pollinator-habitat.md
+        - Establish Action Thresholds for Pest Management: activities/biological-systems/protect-plants-ecosystems/establish-action-thresholds-for-pest-management.md
+        - Manage Resistance in Pest Populations: activities/biological-systems/protect-plants-ecosystems/manage-resistance-in-pest-populations.md
+    - Production Operations:
+      - Overview: activities/production-operations/index.md
+      - 'Operate & Optimize Production Systems':
+        - Overview: activities/production-operations/operate-optimize-production-systems/index.md
+        - Design Production System Architecture: activities/production-operations/operate-optimize-production-systems/design-production-system-architecture.md
+        - Manage Climate Control Operations: activities/production-operations/operate-optimize-production-systems/manage-climate-control-operations.md
+      - 'Deploy & Maintain Technical Infrastructure':
+        - Overview: activities/production-operations/deploy-maintain-technical-infrastructure/index.md
+        - Construct and Commission Growing Environment: activities/production-operations/deploy-maintain-technical-infrastructure/construct-and-commission-growing-environment.md
+        - Procure and Install Technical Equipment: activities/production-operations/deploy-maintain-technical-infrastructure/procure-and-install-technical-equipment.md
+        - Calibrate Sensor and Control Systems: activities/production-operations/deploy-maintain-technical-infrastructure/calibrate-sensor-and-control-systems.md
+        - Implement Predictive Maintenance: activities/production-operations/deploy-maintain-technical-infrastructure/implement-predictive-maintenance.md
+        - Execute Preventive Infrastructure Maintenance: activities/production-operations/deploy-maintain-technical-infrastructure/execute-preventive-infrastructure-maintenance.md
+      - Precision Resource Management:
+        - Overview: activities/production-operations/manage-resources-waste-streams/index.md
+        - Measure and Report Environmental Footprint: activities/production-operations/manage-resources-waste-streams/measure-and-report-environmental-footprint.md
+        - BNG Assessment: activities/production-operations/manage-resources-waste-streams/conduct-biodiversity-net-gain-assessment.md
+        - Measure and Monitor Resource Consumption: activities/production-operations/manage-resources-waste-streams/measure-and-monitor-resource-consumption.md
+        - Develop and Manage Resource Budgets: activities/production-operations/manage-resources-waste-streams/develop-and-manage-resource-budgets.md
+        - Implement Water and Nutrient Conservation: activities/production-operations/manage-resources-waste-streams/implement-water-and-nutrient-conservation.md
+        - Implement Circular Resource Recovery: activities/production-operations/manage-resources-waste-streams/implement-circular-resource-recovery.md
+        - Optimize Resource Efficiency Through Precision Technology: activities/production-operations/manage-resources-waste-streams/optimize-resource-efficiency-through-precision-technology.md
+        - Verify Regenerative Resource Outcomes: activities/production-operations/manage-resources-waste-streams/verify-regenerative-resource-outcomes.md
+      - Integrate Digital Technologies:
+        - Overview: activities/production-operations/integrate-digital-technologies/index.md
+        - Deploy Sensor and IoT Infrastructure: activities/production-operations/integrate-digital-technologies/deploy-sensor-and-iot-infrastructure.md
+        - Develop Analytical and Predictive Models: activities/production-operations/integrate-digital-technologies/develop-analytical-and-predictive-models.md
+        - Integrate Autonomous Control Systems: activities/production-operations/integrate-digital-technologies/integrate-autonomous-control-systems.md
+    - Professional Practice:
+      - Overview: activities/professional-practice/index.md
+      - 'Plan & Coordinate Operations':
+        - Overview: activities/professional-practice/plan-coordinate-operations/index.md
+        - Develop Business Plan: activities/professional-practice/plan-coordinate-operations/develop-business-plan.md
+        - Manage Workforce Development Programme: activities/professional-practice/plan-coordinate-operations/manage-workforce-development-programme.md
+        - Administer Contracts and Client Relationships: activities/professional-practice/plan-coordinate-operations/administer-contracts-and-client-relationships.md
+        - Conduct Financial Planning and Performance Analysis: activities/professional-practice/plan-coordinate-operations/conduct-financial-planning-and-performance-analysis.md
+        - Conduct Strategic Business Development: activities/professional-practice/plan-coordinate-operations/conduct-strategic-business-development.md
+        - Assess Workforce Capability Baseline: activities/professional-practice/plan-coordinate-operations/assess-workforce-capability-baseline.md
+        - Embed Organisational Learning Culture: activities/professional-practice/plan-coordinate-operations/embed-organisational-learning-culture.md
+        - Develop Proactive Client Engagement Programme: activities/professional-practice/plan-coordinate-operations/develop-proactive-client-engagement-programme.md
+      - Regulatory Assurance:
+        - Overview: activities/professional-practice/ensure-compliance-quality/index.md
+        - Establish Regulatory Compliance Framework: activities/professional-practice/ensure-compliance-quality/establish-regulatory-compliance-framework.md
+        - Conduct Risk Assessment Programme: activities/professional-practice/ensure-compliance-quality/conduct-risk-assessment-programme.md
+        - Manage Pesticide Compliance: activities/professional-practice/ensure-compliance-quality/manage-pesticide-compliance.md
+        - Manage Environmental Permits and Waste Compliance: activities/professional-practice/ensure-compliance-quality/manage-environmental-permits-and-waste-compliance.md
+        - Maintain Professional Certifications and Industry Accreditation: activities/professional-practice/ensure-compliance-quality/maintain-professional-certifications-and-industry-accreditation.md
+        - Manage Phytosanitary and Plant Health Compliance: activities/professional-practice/ensure-compliance-quality/manage-phytosanitary-and-plant-health-compliance.md
+        - Manage Quality Assurance and Standards Compliance: activities/professional-practice/ensure-compliance-quality/manage-quality-assurance-and-standards-compliance.md
+        - Lead Regulatory and Standards Development: activities/professional-practice/ensure-compliance-quality/lead-regulatory-and-standards-development.md
+        - Advance Sector Workforce Standards: activities/professional-practice/ensure-compliance-quality/advance-sector-workforce-standards.md
+        - Implement Proactive Safety Culture Programme: activities/professional-practice/ensure-compliance-quality/implement-proactive-safety-culture-programme.md
+  - Work Products:
+    - Plant Health Assessment Record: work-products/plant-health-assessment-record.md
+    - Growing Media Specification: work-products/growing-media-specification.md
+    - Nutrient Management Plan: work-products/nutrient-management-plan.md
+    - IPM Plan: work-products/ipm-strategy-document.md
+    - Biosecurity Risk Assessment: work-products/biosecurity-risk-assessment.md
+    - Environmental Monitoring Dashboard: work-products/environmental-monitoring-dashboard.md
+    - Carbon Footprint Report: work-products/carbon-footprint-report.md
+    - Biodiversity Assessment Report: work-products/biodiversity-assessment-report.md
+    - Diagnostic Laboratory Report: work-products/diagnostic-laboratory-report.md
+    - Sustainability Certification Dossier: work-products/sustainability-certification-dossier.md
+    - Production System Design Specification: work-products/production-system-design-specification.md
+    - Infrastructure Asset Register: work-products/infrastructure-asset-register.md
+    - Climate Control Configuration: work-products/climate-control-configuration.md
+    - Sensor Calibration Record: work-products/sensor-calibration-record.md
+    - Resource Budget Plan: work-products/resource-budget-plan.md
+    - Water and Nutrient Management Plan: work-products/water-and-nutrient-management-plan.md
+    - Energy Performance Report: work-products/energy-performance-report.md
+    - Digital Integration Architecture: work-products/digital-integration-architecture.md
+    - Equipment Maintenance Schedule: work-products/equipment-maintenance-schedule.md
+    - Circular Resource Recovery Plan: work-products/circular-resource-recovery-plan.md
+    - Business Plan: work-products/business-plan.md
+    - Regulatory Compliance Register: work-products/regulatory-compliance-register.md
+    - Risk Assessment Portfolio: work-products/risk-assessment-portfolio.md
+    - Workforce Development Plan: work-products/workforce-development-plan.md
+    - Certification and Accreditation Portfolio: work-products/certification-and-accreditation-portfolio.md
+    - Financial Management Report: work-products/financial-management-report.md
+    - Contract and Specification Document: work-products/contract-and-specification-document.md
+    - Environmental Compliance Record: work-products/environmental-compliance-record.md
+    - Health and Safety Management File: work-products/health-and-safety-management-file.md
+  - Personas:
+    - Plant Production Team: personas/plant-production-team/index.md
+    - Sustainability and Compliance Team: personas/sustainability-and-compliance-team/index.md
+    - Technical Operations Team: personas/technical-operations-team/index.md
+    - Business Management Team: personas/business-management-team/index.md
+  - Competencies:
+    - Plant Science Knowledge: competencies/plant-science-knowledge.md
+    - Growing Media Management: competencies/growing-media-management.md
+    - Mechanical Operations: competencies/mechanical-operations.md
+    - Digital Technology: competencies/digital-technology.md
+    - Plant Protection Expertise: competencies/plant-protection-expertise.md
+    - Environmental Stewardship: competencies/environmental-stewardship.md
+    - 'Business & Project Management': competencies/business-project-management.md
+    - 'Regulatory & Ethical Practice': competencies/professional-practice.md
+  - References: references.md
