@@ -19,8 +19,10 @@ Technique guidance for transitioning to condition-based predictive maintenance.
 3. Deploy vibration, thermal, pressure, and current sensors on critical equipment, train ML models on historical telemetry and failure data, implement edge computing for real-time fault detection, and establish transfer learning across equipment types.
 4. Operational predictive maintenance achieving 15-20% cost reduction with documented improvement in equipment availability and prediction accuracy.
 
-> See: [Liu et al. (2025) Sensors](../../../references.md#liu-et-al-2025-sensors)
-> See: [Bhatt et al. (2025)](../../../references.md#bhatt-et-al-2025)
+**Further Reading**
+
+- [Liu et al. (2025) Sensors (Liu, T. et al., 2025)](../../../references.md#liu-et-al-2025-sensors)
+- [Bhatt et al. (2025) (Bhatt, R. et al., 2025)](../../../references.md#bhatt-et-al-2025)
 
 
 ## Contributes To

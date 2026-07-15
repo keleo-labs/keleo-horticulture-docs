@@ -19,9 +19,11 @@ STAR narrative for peat-free substrate transition.
 3. Audit current peat consumption, evaluate coir, wood fibre, biochar, and composted green waste alternatives through replicated crop trials, implement transition progressively, and document before-and-after performance data.
 4. Peat consumption systematically reduced toward elimination, alternative substrates validated for each production stage, transition costs documented, and compliance with emerging regulatory requirements maintained.
 
-> See: [Barrett, G.E. et al. (2025)](../../../references.md#barrett-g-e-et-al-2025)
-> See: [Zhang, L. et al. (2024)](../../../references.md#zhang-l-et-al-2024)
-> See: [Defra (2023) Peat Action Plan](../../../references.md#defra-2023-peat-action-plan)
+**Further Reading**
+
+- [Barrett, G.E. et al. (2025) (Barrett, G.E. et al., 2025)](../../../references.md#barrett-g-e-et-al-2025)
+- [Zhang, L. et al. (2024) (Zhang, L. et al., 2024)](../../../references.md#zhang-l-et-al-2024)
+- [Defra (2023) Peat Action Plan (Department for Environment, Food & Rural Affairs, 2023)](../../../references.md#defra-2023-peat-action-plan)
 
 
 ## Contributes To

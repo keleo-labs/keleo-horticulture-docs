@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Regulatory & Ethical Practice
+# Professional Practice
 
 [TOC]
 

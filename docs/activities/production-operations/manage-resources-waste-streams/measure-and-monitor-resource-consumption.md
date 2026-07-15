@@ -19,7 +19,9 @@ Technique guidance for establishing comprehensive resource monitoring.
 3. Install metering at intake, distribution, and discharge points, deploy substrate sensors, disaggregate energy by category, and record structured data supporting trend analysis.
 4. Comprehensive disaggregated resource consumption data with documented measurement accuracy enabling evidence-based resource management.
 
-> See: [GLOBALG.A.P. SPRING v2 (2023)](../../../references.md#globalg-a-p-spring-v2-2023)
+**Further Reading**
+
+- [GLOBALG.A.P. SPRING v2 (2023) (GLOBALG.A.P., 2023)](../../../references.md#globalg-a-p-spring-v2-2023)
 
 
 ## Contributes To

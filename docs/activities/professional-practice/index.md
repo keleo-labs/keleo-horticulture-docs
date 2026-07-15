@@ -13,4 +13,4 @@ Human competencies, organizational management, regulatory compliance, and busine
 ## Activity Spaces
 
 - [Plan & Coordinate Operations](plan-coordinate-operations/index.md)
-- [Regulatory Assurance](ensure-compliance-quality/index.md)
+- [Ensure Compliance & Quality](ensure-compliance-quality/index.md)

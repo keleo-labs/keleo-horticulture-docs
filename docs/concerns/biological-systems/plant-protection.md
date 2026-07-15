@@ -19,15 +19,17 @@ STAR narrative for the evolution of integrated plant protection.
 3. Deploy AI-powered monitoring, biological control agents, robotic weeding, resistance management protocols, and pollinator-safe intervention timing coordinated through documented IPM strategies.
 4. Chemical pesticide use approaches zero, beneficial organism populations are self-sustaining, pest outbreaks are self-regulating through established trophic interactions, and pollinator populations are stable or increasing.
 
-> See: [Dara, S.K. et al. (2024)](../../references.md#dara-s-k-et-al-2024)
-> See: [Collier, R. (2022)](../../references.md#collier-r-2022)
-> See: [Sheehan, C. et al. (2025)](../../references.md#sheehan-c-et-al-2025)
+**Further Reading**
+
+- [Dara, S.K. et al. (2024) (Dara, S.K. et al., 2024)](../../references.md#dara-s-k-et-al-2024)
+- [Collier, R. (2022) (Collier, R., 2022)](../../references.md#collier-r-2022)
+- [Sheehan, C. et al. (2025) (Sheehan, C. et al., 2025)](../../references.md#sheehan-c-et-al-2025)
 
 
 ## Related Concerns
 
 - protects: [Plant Health & Development](plant-health-development.md)
-- governed by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
+- governed by: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
 - supports: [Environmental Sustainability](sustainability-environmental-stewardship.md)
 
 ## States

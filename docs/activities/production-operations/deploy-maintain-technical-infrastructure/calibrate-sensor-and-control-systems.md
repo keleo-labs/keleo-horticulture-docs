@@ -19,8 +19,10 @@ Technique guidance for systematic sensor calibration and validation.
 3. Calibrate CO2 sensors against reference gas standards, verify LED spectral output against crop requirements, apply Kalman filters for multi-sensor data quality, and document all calibration records.
 4. Verified sensor accuracy, calibrated control outputs, validated multi-sensor data quality, and complete auditable calibration records.
 
-> See: [Farhangi et al. (2025)](../../../references.md#farhangi-et-al-2025)
-> See: [Giordano et al. (2024)](../../../references.md#giordano-et-al-2024)
+**Further Reading**
+
+- [Farhangi et al. (2025) (Farhangi, H. et al., 2025)](../../../references.md#farhangi-et-al-2025)
+- [Giordano et al. (2024) (Giordano, M.R. et al., 2024)](../../../references.md#giordano-et-al-2024)
 
 
 ## Contributes To

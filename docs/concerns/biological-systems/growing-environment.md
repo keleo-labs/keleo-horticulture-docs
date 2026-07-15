@@ -18,9 +18,11 @@ Three-act narrative for growing environment management evolution.
 2. IoT sensor networks, peat-free substrate formulation, and rhizosphere microbiome science enable evidence-based growing environment management with continuous feedback and sustainable material sourcing.
 3. Predictively managed environments achieve stable growing conditions, reduced resource consumption, and enhanced plant-microbe interactions while eliminating peat dependence and minimising environmental footprint.
 
-> See: [Barrett, G.E. et al. (2025)](../../references.md#barrett-g-e-et-al-2025)
-> See: [Xu, L. et al. (2023)](../../references.md#xu-l-et-al-2023)
-> See: [Singh, A. et al. (2025)](../../references.md#singh-a-et-al-2025)
+**Further Reading**
+
+- [Barrett, G.E. et al. (2025) (Barrett, G.E. et al., 2025)](../../references.md#barrett-g-e-et-al-2025)
+- [Xu, L. et al. (2023) (Xu, L. et al., 2023)](../../references.md#xu-l-et-al-2023)
+- [Singh, A. et al. (2025) (Singh, A. et al., 2025)](../../references.md#singh-a-et-al-2025)
 
 
 ## Related Concerns

@@ -19,8 +19,10 @@ STAR narrative for biodiversity net gain assessment.
 3. Map all habitat types within assessment boundary; score condition against published criteria; calculate net change in biodiversity units using statutory Metric; define habitat management and monitoring plan; secure 30-year maintenance.
 4. Biodiversity impact quantified using statutory methodology, 10% net gain compliance demonstrated, long-term maintenance secured, and monitoring frameworks ensure accountability for predicted outcomes.
 
-> See: [Reiff, J. et al. (2024)](../../../references.md#reiff-j-et-al-2024)
-> See: [UK Parliament Environment Act 2021](../../../references.md#uk-parliament-environment-act-2021)
+**Further Reading**
+
+- [Reiff, J. et al. (2024) (Reiff, J. et al., 2024)](../../../references.md#reiff-j-et-al-2024)
+- [UK Parliament Environment Act 2021 (UK Parliament, 2021)](../../../references.md#uk-parliament-environment-act-2021)
 
 
 ## Contributes To

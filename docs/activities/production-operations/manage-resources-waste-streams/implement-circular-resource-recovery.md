@@ -19,9 +19,11 @@ Technique guidance for deploying closed-loop recovery systems.
 3. Deploy water recirculation achieving 74% freshwater reduction, implement phosphorus precipitation from drainage achieving 40% fertilizer substitution, install UV-C decontamination for recirculating solutions, and quantify loop closure rates using material flow analysis.
 4. Operational closed-loop recovery systems with documented substitution rates and lifecycle assessment demonstrating lower environmental footprint than linear alternatives.
 
-> See: [Malkawi et al. (2025)](../../../references.md#malkawi-et-al-2025)
-> See: [MDPI Agriculture (2026) Aeroponics](../../../references.md#mdpi-agriculture-2026-aeroponics)
-> See: [PMC Circular Horticulture (2022)](../../../references.md#pmc-circular-horticulture-2022)
+**Further Reading**
+
+- [Malkawi et al. (2025) (Malkawi et al., 2025)](../../../references.md#malkawi-et-al-2025)
+- [MDPI Agriculture (2026) Aeroponics (MDPI Agriculture, 2026)](../../../references.md#mdpi-agriculture-2026-aeroponics)
+- [PMC Circular Horticulture (2022) (PMC / MDPI IJERPH, 2022)](../../../references.md#pmc-circular-horticulture-2022)
 
 
 ## Contributes To

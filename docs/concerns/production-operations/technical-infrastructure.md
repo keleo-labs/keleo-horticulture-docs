@@ -24,7 +24,7 @@ Narrative describing progressive infrastructure management from procurement thro
 
 - supports: [CEA System Design](production-system-architecture.md)
 - enables: [Precision Agriculture Technology](digital-integration.md)
-- governed by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
+- governed by: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
 
 ## States
 

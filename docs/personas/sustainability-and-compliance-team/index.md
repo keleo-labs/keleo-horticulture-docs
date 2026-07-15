@@ -15,4 +15,3 @@ Cross-functional team coordinating environmental management, regulatory complian
 - [Plant Protection Specialist](plant-protection-specialist.md)
 - [Environmental Manager](environmental-manager.md)
 - [Horticultural Supervisor](horticultural-supervisor.md)
-- [Horticultural Business Manager](horticultural-business-manager.md)

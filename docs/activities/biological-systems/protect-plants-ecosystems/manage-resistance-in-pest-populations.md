@@ -19,8 +19,10 @@ STAR narrative for resistance management activities.
 3. Characterise resistance risk profiles for target pests; document rotation schedules mandating different mode-of-action groups; conduct baseline sensitivity assays; periodically re-test to detect dose-response shifts; report monitoring data.
 4. Effective life of control products maximised, resistance detected before field failure, mode-of-action diversity maintained, and industry-level resistance intelligence contributed and utilised.
 
-> See: [Corkley, I. et al. (2022)](../../../references.md#corkley-i-et-al-2022)
-> See: [Smith, J. et al. (2026)](../../../references.md#smith-j-et-al-2026)
+**Further Reading**
+
+- [Corkley, I. et al. (2022) (Corkley, I. et al., 2022)](../../../references.md#corkley-i-et-al-2022)
+- [Smith, J. et al. (2026) (Smith, J. et al., 2026)](../../../references.md#smith-j-et-al-2026)
 
 
 ## Contributes To

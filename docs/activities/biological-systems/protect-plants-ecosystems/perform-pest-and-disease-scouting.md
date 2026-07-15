@@ -19,8 +19,10 @@ STAR narrative for pest and disease scouting activities.
 3. Follow systematic walking patterns examining leaf surfaces, stems, and root zones; deploy sticky traps and pheromone traps at canopy height; integrate AI image classification for automated continuous surveillance.
 4. Pest presence detected at earliest stage, population trends tracked for threshold-based decisions, beneficial organisms quantified alongside pests, and automated monitoring extends coverage beyond manual capacity.
 
-> See: [Dara, S.K. et al. (2024)](../../../references.md#dara-s-k-et-al-2024)
-> See: [Sheehan, C. et al. (2025)](../../../references.md#sheehan-c-et-al-2025)
+**Further Reading**
+
+- [Dara, S.K. et al. (2024) (Dara, S.K. et al., 2024)](../../../references.md#dara-s-k-et-al-2024)
+- [Sheehan, C. et al. (2025) (Sheehan, C. et al., 2025)](../../../references.md#sheehan-c-et-al-2025)
 
 
 ## Contributes To

@@ -20,17 +20,19 @@ Hero's journey narrative for sustainability maturation.
 4. Operations achieve net positive environmental outcomes with verified carbon sequestration, 10% biodiversity gain maintained for 30 years, and fully peat-free production across all crop types.
 5. Industry leaders contribute to policy frameworks, circular economy principles govern material flows, and the horticultural sector demonstrates that productive agriculture and ecological regeneration are mutually reinforcing.
 
-> See: [Reiff, J. et al. (2024)](../../references.md#reiff-j-et-al-2024)
-> See: [BSI PAS 2050-1:2012](../../references.md#bsi-pas-2050-1-2012)
-> See: [UK Parliament Environment Act 2021](../../references.md#uk-parliament-environment-act-2021)
-> See: [IPCC (2019)](../../references.md#ipcc-2019)
+**Further Reading**
+
+- [Reiff, J. et al. (2024) (Reiff, J. et al., 2024)](../../references.md#reiff-j-et-al-2024)
+- [BSI PAS 2050-1:2012 (British Standards Institution, 2012)](../../references.md#bsi-pas-2050-1-2012)
+- [UK Parliament Environment Act 2021 (UK Parliament, 2021)](../../references.md#uk-parliament-environment-act-2021)
+- [IPCC (2019) (Intergovernmental Panel on Climate Change, 2019)](../../references.md#ipcc-2019)
 
 
 ## Related Concerns
 
 - guided by: [Water-Energy-Nutrient Nexus](../production-operations/resource-management.md)
 - enabled by: [CEA System Design](../production-operations/production-system-architecture.md)
-- aligned with: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
+- aligned with: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
 
 ## States
 

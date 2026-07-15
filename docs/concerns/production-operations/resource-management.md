@@ -24,7 +24,7 @@ Narrative describing the progression from linear resource consumption to regener
 - enables: [CEA System Design](production-system-architecture.md)
 - guided by: [Environmental Sustainability](../biological-systems/sustainability-environmental-stewardship.md)
 - optimized by: [Precision Agriculture Technology](digital-integration.md)
-- constrained by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
+- constrained by: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
 
 ## States
 

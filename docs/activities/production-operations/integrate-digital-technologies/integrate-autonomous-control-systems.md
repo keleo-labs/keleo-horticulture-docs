@@ -19,8 +19,10 @@ Technique guidance for deploying and validating autonomous AI control.
 3. Couple predictive models into unified control architectures with defined decision boundaries, deploy deep reinforcement learning approaches, validate through staged parallel operation alongside human management, and graduate to full autonomy.
 4. Validated autonomous control system achieving performance comparable to experienced human growers across complete crop cycles, with documented decision boundaries and oversight protocols.
 
-> See: [Ajagekar et al. (2023)](../../../references.md#ajagekar-et-al-2023)
-> See: [Wageningen Autonomous Greenhouse Challenge (2018-2026)](../../../references.md#wageningen-autonomous-greenhouse-challenge-2018-2026)
+**Further Reading**
+
+- [Ajagekar et al. (2023) (Ajagekar, A. et al., 2023)](../../../references.md#ajagekar-et-al-2023)
+- [Wageningen Autonomous Greenhouse Challenge (2018-2026) (Wageningen University & Research, 2026)](../../../references.md#wageningen-autonomous-greenhouse-challenge-2018-2026)
 
 
 ## Contributes To

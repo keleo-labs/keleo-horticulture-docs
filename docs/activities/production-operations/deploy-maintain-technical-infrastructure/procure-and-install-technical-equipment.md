@@ -19,8 +19,10 @@ Technique guidance for compliant equipment procurement and installation.
 3. Define specifications, evaluate vendors, verify CE marking and ISO 12100 compliance, install equipment with calibration baselines, and archive installation documentation.
 4. Installed, individually verified, and documented technical infrastructure with initial calibration baselines and complete asset registration.
 
-> See: [Rai et al. (2022)](../../../references.md#rai-et-al-2022)
-> See: [EU Directive 2006/42/EC](../../../references.md#eu-directive-2006-42-ec)
+**Further Reading**
+
+- [Rai et al. (2022) (Rai, N. et al., 2022)](../../../references.md#rai-et-al-2022)
+- [EU Directive 2006/42/EC (European Commission, 2006)](../../../references.md#eu-directive-2006-42-ec)
 
 
 ## Contributes To

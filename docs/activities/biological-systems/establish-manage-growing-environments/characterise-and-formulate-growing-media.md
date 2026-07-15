@@ -19,10 +19,12 @@ STAR narrative for growing media characterisation and formulation.
 3. Apply CEN/ISHS standardised methods for physical and chemical characterisation, iteratively adjust component ratios, assess pathogen risk of organic alternatives, and conduct performance trials comparing candidates against peat controls.
 4. Substrate properties are quantified, peat-free formulations validated for each crop type, raw material variability managed through specification control, and pathogen risks identified and mitigated.
 
-> See: [Barrett, G.E. et al. (2025)](../../../references.md#barrett-g-e-et-al-2025)
-> See: [Zhang, L. et al. (2024)](../../../references.md#zhang-l-et-al-2024)
-> See: [Litterick, A.M. et al. (2025)](../../../references.md#litterick-a-m-et-al-2025)
-> See: [ISHS Workgroup on Growing Media](../../../references.md#ishs-workgroup-on-growing-media)
+**Further Reading**
+
+- [Barrett, G.E. et al. (2025) (Barrett, G.E. et al., 2025)](../../../references.md#barrett-g-e-et-al-2025)
+- [Zhang, L. et al. (2024) (Zhang, L. et al., 2024)](../../../references.md#zhang-l-et-al-2024)
+- [Litterick, A.M. et al. (2025) (Litterick, A.M. et al., 2025)](../../../references.md#litterick-a-m-et-al-2025)
+- [ISHS Workgroup on Growing Media (International Society for Horticultural Science, 2017)](../../../references.md#ishs-workgroup-on-growing-media)
 
 
 ## Contributes To

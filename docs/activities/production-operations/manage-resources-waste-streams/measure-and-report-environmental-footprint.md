@@ -19,9 +19,11 @@ STAR narrative for environmental footprint measurement.
 3. Define system boundaries and impact categories; collect activity data for emission sources; apply emission factors from recognised databases; compile results into standardised reporting formats; identify hotspots for targeted reduction.
 4. Environmental impact quantified, emission hotspots identified, reduction progress tracked against baseline, peer benchmarking enabled, and reporting meets certification and regulatory requirements.
 
-> See: [BSI PAS 2050-1:2012](../../../references.md#bsi-pas-2050-1-2012)
-> See: [Ali, M. et al. (2024)](../../../references.md#ali-m-et-al-2024)
-> See: [MPS (2024) MPS-GAP Certification](../../../references.md#mps-2024-mps-gap-certification)
+**Further Reading**
+
+- [BSI PAS 2050-1:2012 (British Standards Institution, 2012)](../../../references.md#bsi-pas-2050-1-2012)
+- [Ali, M. et al. (2024) (Ali, M. et al., 2024)](../../../references.md#ali-m-et-al-2024)
+- [MPS (2024) MPS-GAP Certification (MPS, 2024)](../../../references.md#mps-2024-mps-gap-certification)
 
 
 ## Contributes To

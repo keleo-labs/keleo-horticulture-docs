@@ -19,7 +19,9 @@ Technique guidance for ML model development and digital twin simulation.
 3. Prepare data with quality management procedures, train CNN models for disease detection achieving 98.32% accuracy, develop digital twin combining climate and crop models, and validate all models against measured outcomes.
 4. Validated analytical and predictive models with documented accuracy metrics, decision-support dashboards, and digital twin simulation capabilities enabling 15-20% yield improvement.
 
-> See: [Ariesen-Verschuur et al. (2022)](../../../references.md#ariesen-verschuur-et-al-2022)
+**Further Reading**
+
+- [Ariesen-Verschuur et al. (2022) (Ariesen-Verschuur, N., Verdouw, C., Tekinerdogan, B., 2022)](../../../references.md#ariesen-verschuur-et-al-2022)
 
 
 ## Contributes To

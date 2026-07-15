@@ -19,9 +19,11 @@ STAR narrative for pollinator habitat creation.
 3. Conduct baseline pollinator surveys, identify temporal and spatial resource gaps, establish native hedgerows and wildflower meadows with sequential flowering, manage habitat avoiding nesting site destruction, and monitor population responses.
 4. Pollinator populations supported through continuous floral provision, habitat connectivity enhanced across the production landscape, conservation biocontrol strengthened, and BNG obligations advanced.
 
-> See: [Phan, N.T. et al. (2025)](../../../references.md#phan-n-t-et-al-2025)
-> See: [Leach, H. et al. (2026)](../../../references.md#leach-h-et-al-2026)
-> See: [Castle, S.E. et al. (2022)](../../../references.md#castle-s-e-et-al-2022)
+**Further Reading**
+
+- [Phan, N.T. et al. (2025) (Phan, N.T. et al., 2025)](../../../references.md#phan-n-t-et-al-2025)
+- [Leach, H. et al. (2026) (Leach, H. et al., 2026)](../../../references.md#leach-h-et-al-2026)
+- [Castle, S.E. et al. (2022) (Castle, S.E. et al., 2022)](../../../references.md#castle-s-e-et-al-2022)
 
 
 ## Contributes To

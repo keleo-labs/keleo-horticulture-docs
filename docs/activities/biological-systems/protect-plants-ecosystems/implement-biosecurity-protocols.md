@@ -19,9 +19,11 @@ STAR narrative for biosecurity protocol implementation.
 3. Install footbaths and tool sterilisation stations at entry points; operate quarantine spaces with independent irrigation; verify phytosanitary documentation for all incoming material; conduct periodic compliance audits.
 4. Introduction pathways systematically controlled, quarantine procedures prevent undetected escape, staff competency verified and maintained, and regulatory compliance demonstrated.
 
-> See: [RHS Plant Health Management Standard](../../../references.md#rhs-plant-health-management-standard)
-> See: [Defra (2023) Plant Biosecurity Strategy](../../../references.md#defra-2023-plant-biosecurity-strategy)
-> See: [EPPO PM 6 Standards](../../../references.md#eppo-pm-6-standards)
+**Further Reading**
+
+- [RHS Plant Health Management Standard (Royal Horticultural Society, 2023)](../../../references.md#rhs-plant-health-management-standard)
+- [Defra (2023) Plant Biosecurity Strategy (Department for Environment, Food & Rural Affairs, 2023)](../../../references.md#defra-2023-plant-biosecurity-strategy)
+- [EPPO PM 6 Standards (European and Mediterranean Plant Protection Organization, 2024)](../../../references.md#eppo-pm-6-standards)
 
 
 ## Contributes To
@@ -45,9 +47,9 @@ STAR narrative for biosecurity protocol implementation.
 ## Competencies
 
 - [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Masters
-- [Regulatory & Ethical Practice](../../../competencies/professional-practice.md) — Applies
+- [Professional Practice](../../../competencies/professional-practice.md) — Applies
 
 ## Required Competencies
 
 - [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md)
-- [Regulatory & Ethical Practice](../../../competencies/professional-practice.md)
+- [Professional Practice](../../../competencies/professional-practice.md)

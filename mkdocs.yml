@@ -7,12 +7,18 @@ theme:
 markdown_extensions:
   - toc:
       title: On this page
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
 
 nav:
-  - Introduction: index.md
+  - Horticulture Foundations:
+    - Overview: index.md
+    - 'Plant Biology & Protection': practices/plant-biology-protection.md
+    - 'Production Technology & Operations': practices/production-technology-operations.md
+    - Horticulture Essentials: practices/horticulture-essentials.md
   - Patterns:
     - Plant Health Lifecycle Management: patterns/plant-health-lifecycle-management.md
     - Integrated Plant Protection Cycle: patterns/integrated-plant-protection-cycle.md
@@ -20,9 +26,6 @@ nav:
     - Production System Lifecycle: patterns/production-system-lifecycle.md
     - Resource Optimization Cycle: patterns/resource-optimization-cycle.md
     - Digital Maturity Progression: patterns/digital-maturity-progression.md
-    - Business Establishment and Governance Lifecycle: patterns/business-establishment-and-governance-lifecycle.md
-    - Regulatory Compliance Maturity Pathway: patterns/regulatory-compliance-maturity-pathway.md
-    - Professional Workforce Development Cycle: patterns/professional-workforce-development-cycle.md
   - Concerns:
     - Overview: concerns/overview.md
     - Biological Systems:
@@ -40,14 +43,8 @@ nav:
       - Precision Agriculture Technology: concerns/production-operations/digital-integration.md
     - Professional Practice:
       - Overview: concerns/professional-practice/index.md
-      - Enterprise Management:
-        - concerns/professional-practice/business-operations-governance.md
-        - Workforce Development: concerns/professional-practice/workforce-development.md
-        - 'Client & Stakeholder Management': concerns/professional-practice/client-stakeholder-management.md
-        - Financial Management: concerns/professional-practice/financial-management.md
-      - Legal and Standards Framework:
-        - concerns/professional-practice/regulatory-compliance-standards.md
-        - 'Health & Safety Management': concerns/professional-practice/health-safety-management.md
+      - 'Business Operations & Governance': concerns/professional-practice/business-operations-governance.md
+      - 'Regulatory Compliance & Standards': concerns/professional-practice/regulatory-compliance-standards.md
   - Activities:
     - Overview: activities/overview.md
     - Biological Systems:
@@ -101,26 +98,8 @@ nav:
       - Overview: activities/professional-practice/index.md
       - 'Plan & Coordinate Operations':
         - Overview: activities/professional-practice/plan-coordinate-operations/index.md
-        - Develop Business Plan: activities/professional-practice/plan-coordinate-operations/develop-business-plan.md
-        - Manage Workforce Development Programme: activities/professional-practice/plan-coordinate-operations/manage-workforce-development-programme.md
-        - Administer Contracts and Client Relationships: activities/professional-practice/plan-coordinate-operations/administer-contracts-and-client-relationships.md
-        - Conduct Financial Planning and Performance Analysis: activities/professional-practice/plan-coordinate-operations/conduct-financial-planning-and-performance-analysis.md
-        - Conduct Strategic Business Development: activities/professional-practice/plan-coordinate-operations/conduct-strategic-business-development.md
-        - Assess Workforce Capability Baseline: activities/professional-practice/plan-coordinate-operations/assess-workforce-capability-baseline.md
-        - Embed Organisational Learning Culture: activities/professional-practice/plan-coordinate-operations/embed-organisational-learning-culture.md
-        - Develop Proactive Client Engagement Programme: activities/professional-practice/plan-coordinate-operations/develop-proactive-client-engagement-programme.md
-      - Regulatory Assurance:
+      - 'Ensure Compliance & Quality':
         - Overview: activities/professional-practice/ensure-compliance-quality/index.md
-        - Establish Regulatory Compliance Framework: activities/professional-practice/ensure-compliance-quality/establish-regulatory-compliance-framework.md
-        - Conduct Risk Assessment Programme: activities/professional-practice/ensure-compliance-quality/conduct-risk-assessment-programme.md
-        - Manage Pesticide Compliance: activities/professional-practice/ensure-compliance-quality/manage-pesticide-compliance.md
-        - Manage Environmental Permits and Waste Compliance: activities/professional-practice/ensure-compliance-quality/manage-environmental-permits-and-waste-compliance.md
-        - Maintain Professional Certifications and Industry Accreditation: activities/professional-practice/ensure-compliance-quality/maintain-professional-certifications-and-industry-accreditation.md
-        - Manage Phytosanitary and Plant Health Compliance: activities/professional-practice/ensure-compliance-quality/manage-phytosanitary-and-plant-health-compliance.md
-        - Manage Quality Assurance and Standards Compliance: activities/professional-practice/ensure-compliance-quality/manage-quality-assurance-and-standards-compliance.md
-        - Lead Regulatory and Standards Development: activities/professional-practice/ensure-compliance-quality/lead-regulatory-and-standards-development.md
-        - Advance Sector Workforce Standards: activities/professional-practice/ensure-compliance-quality/advance-sector-workforce-standards.md
-        - Implement Proactive Safety Culture Programme: activities/professional-practice/ensure-compliance-quality/implement-proactive-safety-culture-programme.md
   - Work Products:
     - Plant Health Assessment Record: work-products/plant-health-assessment-record.md
     - Growing Media Specification: work-products/growing-media-specification.md
@@ -142,20 +121,10 @@ nav:
     - Digital Integration Architecture: work-products/digital-integration-architecture.md
     - Equipment Maintenance Schedule: work-products/equipment-maintenance-schedule.md
     - Circular Resource Recovery Plan: work-products/circular-resource-recovery-plan.md
-    - Business Plan: work-products/business-plan.md
-    - Regulatory Compliance Register: work-products/regulatory-compliance-register.md
-    - Risk Assessment Portfolio: work-products/risk-assessment-portfolio.md
-    - Workforce Development Plan: work-products/workforce-development-plan.md
-    - Certification and Accreditation Portfolio: work-products/certification-and-accreditation-portfolio.md
-    - Financial Management Report: work-products/financial-management-report.md
-    - Contract and Specification Document: work-products/contract-and-specification-document.md
-    - Environmental Compliance Record: work-products/environmental-compliance-record.md
-    - Health and Safety Management File: work-products/health-and-safety-management-file.md
   - Personas:
     - Plant Production Team: personas/plant-production-team/index.md
     - Sustainability and Compliance Team: personas/sustainability-and-compliance-team/index.md
     - Technical Operations Team: personas/technical-operations-team/index.md
-    - Business Management Team: personas/business-management-team/index.md
   - Competencies:
     - Plant Science Knowledge: competencies/plant-science-knowledge.md
     - Growing Media Management: competencies/growing-media-management.md
@@ -164,5 +133,5 @@ nav:
     - Plant Protection Expertise: competencies/plant-protection-expertise.md
     - Environmental Stewardship: competencies/environmental-stewardship.md
     - 'Business & Project Management': competencies/business-project-management.md
-    - 'Regulatory & Ethical Practice': competencies/professional-practice.md
+    - Professional Practice: competencies/professional-practice.md
   - References: references.md

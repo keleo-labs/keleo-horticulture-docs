@@ -4,6 +4,8 @@ Comprehensive horticultural practice framework integrating biological systems ma
 
 Modern horticulture faces converging challenges: climate change threatens traditional growing systems, pest and disease pressures intensify, resource constraints demand efficiency, and regulatory requirements grow increasingly complex. Horticulture Foundations provides an integrated framework that connects biological understanding with production technology and professional governance.
 
+Checkout out the [docs site](https://keleo-labs.github.io/keleo-horticulture-docs/)
+
 ## Practices
 
 The framework spans three interconnected practices:

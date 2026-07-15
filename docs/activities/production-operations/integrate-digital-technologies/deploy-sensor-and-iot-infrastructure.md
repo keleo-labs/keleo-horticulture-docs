@@ -19,8 +19,10 @@ Technique guidance for sensor network deployment and IoT connectivity.
 3. Select sensor modalities based on cost-accuracy trade-offs, deploy sensors following digital architecture, configure LoRaWAN/WiFi/ISOBUS connectivity, establish edge computing and cloud data pipelines, and implement security measures.
 4. Operational sensor network with documented coverage, validated connectivity, real-time monitoring dashboards, and ISOBUS/AgGateway interoperability.
 
-> See: [Liu et al. (2025) Sensors](../../../references.md#liu-et-al-2025-sensors)
-> See: [ISO 11783 ISOBUS Standard](../../../references.md#iso-11783-isobus-standard)
+**Further Reading**
+
+- [Liu et al. (2025) Sensors (Liu, T. et al., 2025)](../../../references.md#liu-et-al-2025-sensors)
+- [ISO 11783 ISOBUS Standard (ISO TC 23/SC 19, 2024)](../../../references.md#iso-11783-isobus-standard)
 
 
 ## Contributes To

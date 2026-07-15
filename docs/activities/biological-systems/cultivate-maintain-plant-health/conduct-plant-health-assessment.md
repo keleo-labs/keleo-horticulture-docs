@@ -19,9 +19,11 @@ STAR narrative for performing plant health assessments.
 3. Conduct systematic sampling using phenotyping tools including multispectral imaging, chlorophyll fluorescence, and canopy reflectance analysis, recording data against standardised severity scales with statistical rigour.
 4. Plant condition is quantified and documented, emerging threats are detected early, performance differences between cultivars are identified, and management interventions are triggered by evidence.
 
-> See: [Visakh, N.U. et al. (2024)](../../../references.md#visakh-n-u-et-al-2024)
-> See: [Pabuayon, I.L.B. et al. (2023)](../../../references.md#pabuayon-i-l-b-et-al-2023)
-> See: [RHS Plant Health Management Standard](../../../references.md#rhs-plant-health-management-standard)
+**Further Reading**
+
+- [Visakh, N.U. et al. (2024) (Visakh, N.U. et al., 2024)](../../../references.md#visakh-n-u-et-al-2024)
+- [Pabuayon, I.L.B. et al. (2023) (Pabuayon, I.L.B. et al., 2023)](../../../references.md#pabuayon-i-l-b-et-al-2023)
+- [RHS Plant Health Management Standard (Royal Horticultural Society, 2023)](../../../references.md#rhs-plant-health-management-standard)
 
 
 ## Contributes To

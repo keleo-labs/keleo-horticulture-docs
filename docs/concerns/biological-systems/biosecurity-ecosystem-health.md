@@ -18,15 +18,17 @@ Three-act narrative for biosecurity system development.
 2. LAMP diagnostics, eDNA surveillance, risk-based import assessment, and structured quarantine protocols create layered biosecurity defences from border to growing environment.
 3. Biosecurity systems achieve rapid detection and containment, international cooperation shares intelligence, and simulation exercises build institutional readiness for novel threats.
 
-> See: [Defra (2023) Plant Biosecurity Strategy](../../references.md#defra-2023-plant-biosecurity-strategy)
-> See: [Montes-Borrego, M. et al. (2025)](../../references.md#montes-borrego-m-et-al-2025)
-> See: [EPPO PM 7 Series](../../references.md#eppo-pm-7-series)
+**Further Reading**
+
+- [Defra (2023) Plant Biosecurity Strategy (Department for Environment, Food & Rural Affairs, 2023)](../../references.md#defra-2023-plant-biosecurity-strategy)
+- [Montes-Borrego, M. et al. (2025) (Montes-Borrego, M. et al., 2025)](../../references.md#montes-borrego-m-et-al-2025)
+- [EPPO PM 7 Series (European and Mediterranean Plant Protection Organization, 2024)](../../references.md#eppo-pm-7-series)
 
 
 ## Related Concerns
 
 - protects: [Plant Health & Development](plant-health-development.md)
-- governed by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
+- governed by: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
 - coordinates with: [IPM](plant-protection.md)
 
 ## States

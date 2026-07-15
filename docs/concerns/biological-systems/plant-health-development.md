@@ -20,10 +20,12 @@ Transformation narrative for plant health management from reactive to regenerati
 4. Plant production achieves predictable quality through continuous monitoring, precision interventions, and resilient cultivars adapted to local stresses and climate projections.
 5. Germplasm conservation and knowledge-sharing across production cycles build collective genetic and cultural resources that strengthen the profession.
 
-> See: [Visakh, N.U. et al. (2024)](../../references.md#visakh-n-u-et-al-2024)
-> See: [Sapkota, S. et al. (2023)](../../references.md#sapkota-s-et-al-2023)
-> See: [Cooper, M. et al. (2023)](../../references.md#cooper-m-et-al-2023)
-> See: [Adams, C. et al. (2025)](../../references.md#adams-c-et-al-2025)
+**Further Reading**
+
+- [Visakh, N.U. et al. (2024) (Visakh, N.U. et al., 2024)](../../references.md#visakh-n-u-et-al-2024)
+- [Sapkota, S. et al. (2023) (Sapkota, S. et al., 2023)](../../references.md#sapkota-s-et-al-2023)
+- [Cooper, M. et al. (2023) (Cooper, M. et al., 2023)](../../references.md#cooper-m-et-al-2023)
+- [Adams, C. et al. (2025) (Adams, C., Bamford, K.M., Early, M.P., 2025)](../../references.md#adams-c-et-al-2025)
 
 
 ## Related Concerns

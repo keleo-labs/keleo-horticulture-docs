@@ -19,9 +19,11 @@ Technique guidance for developing validated production system specifications.
 3. Evaluate alternative system architectures against objectives, conduct structural load analysis using FEA, specify passive and active climate control strategies, and document energy budgets against ASHRAE benchmarks.
 4. Approved design specification with BS EN 13031-1 compliance verification, validated structural integrity, and documented provisions for progressive digital integration.
 
-> See: [Al-Khatri et al. (2026)](../../../references.md#al-khatri-et-al-2026)
-> See: [Fernandez-Garcia et al. (2022)](../../../references.md#fernandez-garcia-et-al-2022)
-> See: [BS EN 13031-1:2019](../../../references.md#bs-en-13031-1-2019)
+**Further Reading**
+
+- [Al-Khatri et al. (2026) (Al-Khatri, H. et al., 2026)](../../../references.md#al-khatri-et-al-2026)
+- [Fernandez-Garcia et al. (2022) (Fernandez-Garcia, M.S. et al., 2022)](../../../references.md#fernandez-garcia-et-al-2022)
+- [BS EN 13031-1:2019 (BSI / CEN TC 284, 2019)](../../../references.md#bs-en-13031-1-2019)
 
 
 ## Contributes To

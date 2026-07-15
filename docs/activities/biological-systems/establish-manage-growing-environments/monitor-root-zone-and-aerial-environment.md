@@ -19,9 +19,11 @@ STAR narrative for environmental monitoring activities.
 3. Install root zone and aerial sensors at representative positions, configure wireless data transmission to centralised platforms, set alert thresholds for deviation detection, and maintain calibration through scheduled reference checks.
 4. Environmental conditions are continuously documented, deviations detected promptly, historical data supports predictive modelling, and sensor accuracy maintained through calibration governance.
 
-> See: [Xu, L. et al. (2023)](../../../references.md#xu-l-et-al-2023)
-> See: [Singh, A. et al. (2025)](../../../references.md#singh-a-et-al-2025)
-> See: [Engler, N. & Krarti, M. (2023)](../../../references.md#engler-n-krarti-m-2023)
+**Further Reading**
+
+- [Xu, L. et al. (2023) (Xu, L. et al., 2023)](../../../references.md#xu-l-et-al-2023)
+- [Singh, A. et al. (2025) (Singh, A. et al., 2025)](../../../references.md#singh-a-et-al-2025)
+- [Engler, N. & Krarti, M. (2023) (Engler, N., Krarti, M., 2023)](../../../references.md#engler-n-krarti-m-2023)
 
 
 ## Contributes To

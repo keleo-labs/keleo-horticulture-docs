@@ -19,8 +19,10 @@ STAR narrative for rapid diagnostic testing activities.
 3. Select appropriate test format from LAMP, lateral flow, or portable PCR options; prepare samples following test-specific protocols; run controls; record results with full metadata; trigger escalation pathway for positive results.
 4. Suspect incursions confirmed or excluded within hours, statutory notification met promptly, false positive rates managed through QA controls, and chain of evidence supports regulatory decisions.
 
-> See: [Montes-Borrego, M. et al. (2025)](../../../references.md#montes-borrego-m-et-al-2025)
-> See: [EPPO PM 7 Series](../../../references.md#eppo-pm-7-series)
+**Further Reading**
+
+- [Montes-Borrego, M. et al. (2025) (Montes-Borrego, M. et al., 2025)](../../../references.md#montes-borrego-m-et-al-2025)
+- [EPPO PM 7 Series (European and Mediterranean Plant Protection Organization, 2024)](../../../references.md#eppo-pm-7-series)
 
 
 ## Contributes To

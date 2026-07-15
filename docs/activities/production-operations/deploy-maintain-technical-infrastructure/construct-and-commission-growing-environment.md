@@ -19,8 +19,10 @@ Technique guidance for physical construction and system commissioning.
 3. Assemble structures within tolerance specifications, install cultivation infrastructure, commission climate control under representative loads, and establish KPI baselines.
 4. Physically completed production system with commissioning test results, trained operational staff, and documented performance baselines.
 
-> See: [Graamans et al. (2025)](../../../references.md#graamans-et-al-2025)
-> See: [BS EN 13031-1:2019](../../../references.md#bs-en-13031-1-2019)
+**Further Reading**
+
+- [Graamans et al. (2025) (Graamans, L. et al., 2025)](../../../references.md#graamans-et-al-2025)
+- [BS EN 13031-1:2019 (BSI / CEN TC 284, 2019)](../../../references.md#bs-en-13031-1-2019)
 
 
 ## Contributes To

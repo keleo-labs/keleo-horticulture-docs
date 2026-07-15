@@ -19,8 +19,10 @@ Technique guidance for resource budget development and variance tracking.
 3. Calculate budgets using crop models and historical data, establish ASHRAE energy benchmarks, develop spatially variable prescription maps, and implement variance monitoring with defined review intervals.
 4. Documented resource allocation targets with active variance tracking, progressive budget refinement, and regulatory compliance.
 
-> See: [GLOBALG.A.P. SPRING v2 (2023)](../../../references.md#globalg-a-p-spring-v2-2023)
-> See: [UF/IFAS (2025) VRT](../../../references.md#uf-ifas-2025-vrt)
+**Further Reading**
+
+- [GLOBALG.A.P. SPRING v2 (2023) (GLOBALG.A.P., 2023)](../../../references.md#globalg-a-p-spring-v2-2023)
+- [UF/IFAS (2025) VRT (Sharma et al., 2025)](../../../references.md#uf-ifas-2025-vrt)
 
 
 ## Contributes To

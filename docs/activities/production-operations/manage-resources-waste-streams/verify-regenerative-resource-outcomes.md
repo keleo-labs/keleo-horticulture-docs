@@ -19,7 +19,9 @@ Technique guidance for verifying net-positive environmental outcomes.
 3. Conduct lifecycle assessment comparing circular against linear resource management, measure carbon sequestration from biochar and biomass accumulation, assess soil health improvements in receiving systems, and submit regenerative outcomes for third-party environmental audit.
 4. Independently verified regenerative outcomes demonstrating net-positive environmental impact, meeting circular horticulture framework criteria across water, nutrient, and energy cycles.
 
-> See: [PMC Circular Horticulture (2022)](../../../references.md#pmc-circular-horticulture-2022)
+**Further Reading**
+
+- [PMC Circular Horticulture (2022) (PMC / MDPI IJERPH, 2022)](../../../references.md#pmc-circular-horticulture-2022)
 
 
 ## Contributes To

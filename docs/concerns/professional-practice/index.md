@@ -12,9 +12,5 @@ Human competencies, organizational management, regulatory compliance, and busine
 
 ## Concerns
 
-- [Enterprise Management](business-operations-governance.md)
-- [Legal and Standards Framework](regulatory-compliance-standards.md)
-- [Workforce Development](workforce-development.md)
-- [Client & Stakeholder Management](client-stakeholder-management.md)
-- [Financial Management](financial-management.md)
-- [Health & Safety Management](health-safety-management.md)
+- [Business Operations & Governance](business-operations-governance.md)
+- [Regulatory Compliance & Standards](regulatory-compliance-standards.md)

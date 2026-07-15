@@ -19,9 +19,11 @@ STAR narrative for pest management threshold establishment.
 3. Review published thresholds from extension literature, adjust for local crop values and available interventions, accumulate multi-season calibration data, integrate resistance monitoring baselines, and benchmark threshold maturity.
 4. Intervention decisions based on quantified evidence, unnecessary applications eliminated, resistance risk managed proactively, and threshold maturity benchmarked against industry standards.
 
-> See: [Collier, R. (2022)](../../../references.md#collier-r-2022)
-> See: [Sheehan, C. et al. (2025)](../../../references.md#sheehan-c-et-al-2025)
-> See: [Corkley, I. et al. (2022)](../../../references.md#corkley-i-et-al-2022)
+**Further Reading**
+
+- [Collier, R. (2022) (Collier, R., 2022)](../../../references.md#collier-r-2022)
+- [Sheehan, C. et al. (2025) (Sheehan, C. et al., 2025)](../../../references.md#sheehan-c-et-al-2025)
+- [Corkley, I. et al. (2022) (Corkley, I. et al., 2022)](../../../references.md#corkley-i-et-al-2022)
 
 
 ## Contributes To

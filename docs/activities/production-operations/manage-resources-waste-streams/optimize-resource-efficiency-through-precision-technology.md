@@ -19,7 +19,9 @@ Technique guidance for deploying variable rate precision resource application.
 3. Implement VRT using prescription maps from multispectral imagery and yield data, deploy smart irrigation controllers achieving 25-50% water reduction, configure growth-stage-aware LED control, and validate efficiency improvements against baselines.
 4. Documented resource efficiency improvements with VRT achieving 20-45% nutrient use efficiency gains and precision fertigation improving water use efficiency by 61-64%.
 
-> See: [UF/IFAS (2025) VRT](../../../references.md#uf-ifas-2025-vrt)
+**Further Reading**
+
+- [UF/IFAS (2025) VRT (Sharma et al., 2025)](../../../references.md#uf-ifas-2025-vrt)
 
 
 ## Contributes To

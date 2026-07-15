@@ -19,7 +19,9 @@ Technique guidance for systematic preventive maintenance execution.
 3. Follow manufacturer-specified maintenance schedules for HVAC, sensors, pumps, and mechanical components, log all maintenance actions with parts used and condition observations, and maintain spare parts inventory at levels preventing extended downtime.
 4. Equipment reliability maintained with documented maintenance history, extended component lifespan, and minimized unplanned downtime through systematic preventive care.
 
-> See: [EU Directive 2006/42/EC](../../../references.md#eu-directive-2006-42-ec)
+**Further Reading**
+
+- [EU Directive 2006/42/EC (European Commission, 2006)](../../../references.md#eu-directive-2006-42-ec)
 
 
 ## Contributes To

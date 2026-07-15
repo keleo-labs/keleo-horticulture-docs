@@ -19,8 +19,10 @@ Technique guidance for coordinated environmental control management.
 3. Configure environmental setpoints, tune control algorithms, deploy multi-agent AI for coordinated parameter management, and document performance against energy benchmarks.
 4. Maintained crop-optimal growing conditions with documented energy efficiency improvements, achieving 57% reduction through deep reinforcement learning approaches.
 
-> See: [Ajagekar et al. (2023)](../../../references.md#ajagekar-et-al-2023)
-> See: [Zhang et al. (2025)](../../../references.md#zhang-et-al-2025)
+**Further Reading**
+
+- [Ajagekar et al. (2023) (Ajagekar, A. et al., 2023)](../../../references.md#ajagekar-et-al-2023)
+- [Zhang et al. (2025) (Zhang, M. et al., 2025)](../../../references.md#zhang-et-al-2025)
 
 
 ## Contributes To

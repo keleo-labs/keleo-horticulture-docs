@@ -19,9 +19,11 @@ STAR narrative for biological control agent deployment.
 3. Select agents considering host specificity and environmental tolerance; verify quality at receipt per IOBC guidelines; deploy at recommended rates with timing adjusted for local conditions; monitor establishment and pest response.
 4. Pest populations suppressed through ecological mechanisms, chemical dependency reduced, natural enemy populations enhanced, and quality-assured biocontrol maintains efficacy standards.
 
-> See: [Frontiers (2026) Biopesticides](../../../references.md#frontiers-2026-biopesticides)
-> See: [Minhans, A. et al. (2026)](../../../references.md#minhans-a-et-al-2026)
-> See: [IOBC Quality Control Guidelines](../../../references.md#iobc-quality-control-guidelines)
+**Further Reading**
+
+- [Frontiers (2026) Biopesticides (Frontiers Editorial, 2026)](../../../references.md#frontiers-2026-biopesticides)
+- [Minhans, A. et al. (2026) (Minhans, A. et al., 2026)](../../../references.md#minhans-a-et-al-2026)
+- [IOBC Quality Control Guidelines (IOBC-Global Working Group on MRQA, 2024)](../../../references.md#iobc-quality-control-guidelines)
 
 
 ## Contributes To

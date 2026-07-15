@@ -19,9 +19,11 @@ Technique guidance for deploying water and nutrient conservation strategies.
 3. Deploy regulated deficit irrigation, install LED lighting replacing HPS, configure adaptive lighting controls, implement nutrient recirculation, and install thermal conservation measures.
 4. Documented resource consumption reduction with LED replacement achieving 24% electricity savings and RDI strategies improving water use efficiency by 40-56%.
 
-> See: [Palmitessa et al. (2021)](../../../references.md#palmitessa-et-al-2021)
-> See: [Springer Stress Biology (2022)](../../../references.md#springer-stress-biology-2022)
-> See: [MDPI Horticulturae (2024) Water](../../../references.md#mdpi-horticulturae-2024-water)
+**Further Reading**
+
+- [Palmitessa et al. (2021) (Palmitessa, O.D. et al., 2021)](../../../references.md#palmitessa-et-al-2021)
+- [Springer Stress Biology (2022) (Springer / Stress Biology, 2022)](../../../references.md#springer-stress-biology-2022)
+- [MDPI Horticulturae (2024) Water (MDPI Horticulturae, 2024)](../../../references.md#mdpi-horticulturae-2024-water)
 
 
 ## Contributes To
