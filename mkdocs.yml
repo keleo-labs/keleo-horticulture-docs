@@ -8,7 +8,7 @@ markdown_extensions:
   - toc:
       title: On this page
   - pymdownx.tasklist:
-      custom_checkbox: true
+      custom_checkbox: false
 
 extra_css:
   - stylesheets/custom.css
