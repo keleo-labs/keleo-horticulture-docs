@@ -18,9 +18,9 @@ Summary projections of total consumption with cost estimates.
 
 **Checklist:**
 
-- [ ] Total consumption projected: Total water, nutrient, and energy consumption projected per production period.
-- [ ] Cost estimates provided: Cost estimates provided for each resource category.
-- [ ] Assumptions documented: Assumptions documented and justified.
+- [ ] **Total consumption projected**: Total water, nutrient, and energy consumption projected per production period.
+- [ ] **Cost estimates provided**: Cost estimates provided for each resource category.
+- [ ] **Assumptions documented**: Assumptions documented and justified.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Budget broken down by zone, crop, and growth stage.
 
 **Checklist:**
 
-- [ ] Zone-level targets specified: Resource targets specified per production zone and crop type.
-- [ ] Growth-stage targets established: Growth-stage-specific consumption targets established.
-- [ ] Variance thresholds defined: Variance thresholds defined with escalation procedures.
+- [ ] **Zone-level targets specified**: Resource targets specified per production zone and crop type.
+- [ ] **Growth-stage targets established**: Growth-stage-specific consumption targets established.
+- [ ] **Variance thresholds defined**: Variance thresholds defined with escalation procedures.
 
 **Contributes to:**
 
@@ -54,9 +54,9 @@ Budget enhanced with spatially variable prescription maps.
 
 **Checklist:**
 
-- [ ] Prescription maps integrated: Spatially variable prescription maps integrated based on sensor data.
-- [ ] Dynamic adjustment protocols defined: Dynamic adjustment protocols defined from historical variance analysis.
-- [ ] Compliance requirements mapped: Compliance requirements mapped to measurement procedures.
+- [ ] **Prescription maps integrated**: Spatially variable prescription maps integrated based on sensor data.
+- [ ] **Dynamic adjustment protocols defined**: Dynamic adjustment protocols defined from historical variance analysis.
+- [ ] **Compliance requirements mapped**: Compliance requirements mapped to measurement procedures.
 
 **Contributes to:**
 
@@ -73,9 +73,9 @@ AI-driven demand forecasting with real-time tracking dashboards.
 
 **Checklist:**
 
-- [ ] AI demand forecasting deployed: AI-driven demand forecasting models deployed and validated.
-- [ ] Real-time tracking dashboards operational: Real-time budget tracking dashboards operational with automated variance alerting.
-- [ ] Optimization algorithms documented: Optimization algorithms linking resource allocation to yield models documented.
+- [ ] **AI demand forecasting deployed**: AI-driven demand forecasting models deployed and validated.
+- [ ] **Real-time tracking dashboards operational**: Real-time budget tracking dashboards operational with automated variance alerting.
+- [ ] **Optimization algorithms documented**: Optimization algorithms linking resource allocation to yield models documented.
 
 **Contributes to:**
 

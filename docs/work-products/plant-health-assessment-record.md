@@ -18,10 +18,10 @@ Visual inspection form recording symptom presence.
 
 **Checklist:**
 
-- [ ] Visual inspection covers key indicators: Visual inspection covers foliage colour, turgidity, pest damage, and abnormal growth.
-- [ ] Representative sample assessed: Representative sample from across the growing area is assessed systematically.
-- [ ] Severity rated using published scales: Symptom severity rated using standardised published scales.
-- [ ] Assessment metadata recorded: Assessment date, location, assessor identity, and conditions recorded.
+- [ ] **Visual inspection covers key indicators**: Visual inspection covers foliage colour, turgidity, pest damage, and abnormal growth.
+- [ ] **Representative sample assessed**: Representative sample from across the growing area is assessed systematically.
+- [ ] **Severity rated using published scales**: Symptom severity rated using standardised published scales.
+- [ ] **Assessment metadata recorded**: Assessment date, location, assessor identity, and conditions recorded.
 
 **Contributes to:**
 
@@ -39,10 +39,10 @@ Measured parameters with calibrated severity ratings.
 
 **Checklist:**
 
-- [ ] Growth parameters measured instrumentally: Growth rate, canopy coverage, and leaf area index measured instrumentally.
-- [ ] Chlorophyll fluorescence recorded: Chlorophyll fluorescence values recorded detecting photosynthetic stress.
-- [ ] Multispectral data captured: NDVI or multispectral reflectance data captured at population scale.
-- [ ] Environmental conditions documented: Environmental conditions at assessment documented for correlation analysis.
+- [ ] **Growth parameters measured instrumentally**: Growth rate, canopy coverage, and leaf area index measured instrumentally.
+- [ ] **Chlorophyll fluorescence recorded**: Chlorophyll fluorescence values recorded detecting photosynthetic stress.
+- [ ] **Multispectral data captured**: NDVI or multispectral reflectance data captured at population scale.
+- [ ] **Environmental conditions documented**: Environmental conditions at assessment documented for correlation analysis.
 
 **Contributes to:**
 
@@ -60,10 +60,10 @@ Comprehensive record with diagnostics and management recommendations.
 
 **Checklist:**
 
-- [ ] Laboratory diagnostics confirm identification: Laboratory diagnostic results confirm causal organism identification.
-- [ ] Tissue analysis documents nutrient status: Tissue analysis data documents nutrient status and toxicity levels.
-- [ ] Environmental correlation analysed: Environmental correlation analysis links conditions to observed symptoms.
-- [ ] Management recommendations provided: Management recommendations supported by photographic evidence.
+- [ ] **Laboratory diagnostics confirm identification**: Laboratory diagnostic results confirm causal organism identification.
+- [ ] **Tissue analysis documents nutrient status**: Tissue analysis data documents nutrient status and toxicity levels.
+- [ ] **Environmental correlation analysed**: Environmental correlation analysis links conditions to observed symptoms.
+- [ ] **Management recommendations provided**: Management recommendations supported by photographic evidence.
 
 **Contributes to:**
 
@@ -80,10 +80,10 @@ Multi-season datasets enabling trend analysis and prediction.
 
 **Checklist:**
 
-- [ ] Multi-season trend detection enabled: Multi-season datasets enable population-level trend detection and early warning.
-- [ ] Cultivar comparisons documented: Cultivar performance comparisons across growing environments documented.
-- [ ] Predictive models validated: Predictive models validated against historical health outcome data.
-- [ ] Data retention adequate: Data retention spans minimum three complete production cycles.
+- [ ] **Multi-season trend detection enabled**: Multi-season datasets enable population-level trend detection and early warning.
+- [ ] **Cultivar comparisons documented**: Cultivar performance comparisons across growing environments documented.
+- [ ] **Predictive models validated**: Predictive models validated against historical health outcome data.
+- [ ] **Data retention adequate**: Data retention spans minimum three complete production cycles.
 
 **Contributes to:**
 

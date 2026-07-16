@@ -39,13 +39,13 @@ Physical and chemical properties of substrate/soil and atmospheric conditions me
 
 **Checklist:**
 
-- [ ] pH and EC measured: pH and electrical conductivity (EC) measured regularly using calibrated meters
-- [ ] Texture and structure analyzed: Texture and structure analyzed (particle size distribution, aggregate stability, bulk density)
-- [ ] Nutrient content assessed: Nutrient content assessed through soil/substrate testing (N, P, K, Ca, Mg, micronutrients)
-- [ ] Temperature and humidity logged: Temperature and humidity logged continuously or at critical times (daily min/max, VPD)
-- [ ] Light quantified: Light intensity and spectrum quantified (PPFD, DLI, R:FR ratio)
-- [ ] Indigenous microbial community profiled: Indigenous microbial community composition profiled through culture-based or molecular methods.
-- [ ] Pathogen risk of substrates assessed: Pathogen risk associated with substrate materials assessed, particularly oomycete contamination in organic peat alternatives.
+- [ ] **pH and EC measured**: pH and electrical conductivity (EC) measured regularly using calibrated meters
+- [ ] **Texture and structure analyzed**: Texture and structure analyzed (particle size distribution, aggregate stability, bulk density)
+- [ ] **Nutrient content assessed**: Nutrient content assessed through soil/substrate testing (N, P, K, Ca, Mg, micronutrients)
+- [ ] **Temperature and humidity logged**: Temperature and humidity logged continuously or at critical times (daily min/max, VPD)
+- [ ] **Light quantified**: Light intensity and spectrum quantified (PPFD, DLI, R:FR ratio)
+- [ ] **Indigenous microbial community profiled**: Indigenous microbial community composition profiled through culture-based or molecular methods.
+- [ ] **Pathogen risk of substrates assessed**: Pathogen risk associated with substrate materials assessed, particularly oomycete contamination in organic peat alternatives.
 
 **Progressed by:**
 
@@ -63,13 +63,13 @@ Growing media formulated or amended and site conditions modified to support targ
 
 **Checklist:**
 
-- [ ] Substrate recipe selected: Substrate recipe selected based on crop requirements (drainage, aeration, water-holding capacity)
-- [ ] Organic matter incorporated: Organic matter incorporated to improve soil structure and microbial activity
-- [ ] Drainage established: Drainage systems established to prevent waterlogging and root anoxia
-- [ ] pH adjusted: pH adjusted using lime (to raise) or sulfur (to lower) based on crop requirements
-- [ ] Microclimate stabilized: Microclimate stabilized through windbreaks, shade structures, or thermal mass
-- [ ] Beneficial microbial inoculants applied: Beneficial microbial inoculants applied where evidence supports their contribution to crop performance.
-- [ ] Growing environment verified before planting: Growing environment verified against crop-specific requirements before planting with documented sign-off.
+- [ ] **Substrate recipe selected**: Substrate recipe selected based on crop requirements (drainage, aeration, water-holding capacity)
+- [ ] **Organic matter incorporated**: Organic matter incorporated to improve soil structure and microbial activity
+- [ ] **Drainage established**: Drainage systems established to prevent waterlogging and root anoxia
+- [ ] **pH adjusted**: pH adjusted using lime (to raise) or sulfur (to lower) based on crop requirements
+- [ ] **Microclimate stabilized**: Microclimate stabilized through windbreaks, shade structures, or thermal mass
+- [ ] **Beneficial microbial inoculants applied**: Beneficial microbial inoculants applied where evidence supports their contribution to crop performance.
+- [ ] **Growing environment verified before planting**: Growing environment verified against crop-specific requirements before planting with documented sign-off.
 
 **Progressed by:**
 
@@ -87,13 +87,13 @@ Water-holding capacity, structural aeration, and nutrient availability optimized
 
 **Checklist:**
 
-- [ ] Moisture retention adequate: Moisture retention adequate for crop needs without waterlogging (field capacity, permanent wilting point)
-- [ ] Root oxygenation sufficient: Root oxygenation sufficient (air-filled porosity >10-20% depending on species)
-- [ ] Nutrient ratios appropriate: Nutrient ratios appropriate (N:P:K balance, Ca:Mg ratio, micronutrient availability)
-- [ ] Salt accumulation prevented: Salt accumulation prevented through leaching, substrate replacement, or precision fertigation
-- [ ] Microbial activity healthy: Microbial activity healthy (respiration rates, decomposition, beneficial organism populations)
-- [ ] Peat-free substrates validated: Peat-free or peat-reduced substrate blends demonstrate equivalent or superior plant performance.
-- [ ] C:N ratio stabilised: Carbon-to-nitrogen ratio of organic substrates stabilised preventing nitrogen immobilisation or phytotoxic release.
+- [ ] **Moisture retention adequate**: Moisture retention adequate for crop needs without waterlogging (field capacity, permanent wilting point)
+- [ ] **Root oxygenation sufficient**: Root oxygenation sufficient (air-filled porosity >10-20% depending on species)
+- [ ] **Nutrient ratios appropriate**: Nutrient ratios appropriate (N:P:K balance, Ca:Mg ratio, micronutrient availability)
+- [ ] **Salt accumulation prevented**: Salt accumulation prevented through leaching, substrate replacement, or precision fertigation
+- [ ] **Microbial activity healthy**: Microbial activity healthy (respiration rates, decomposition, beneficial organism populations)
+- [ ] **Peat-free substrates validated**: Peat-free or peat-reduced substrate blends demonstrate equivalent or superior plant performance.
+- [ ] **C:N ratio stabilised**: Carbon-to-nitrogen ratio of organic substrates stabilised preventing nitrogen immobilisation or phytotoxic release.
 
 **Progressed by:**
 
@@ -111,13 +111,13 @@ Continuous measurement of environmental parameters enables real-time assessment 
 
 **Checklist:**
 
-- [ ] Sensors deployed: Sensors deployed measuring soil moisture, temperature, EC, and atmospheric conditions
-- [ ] Data captured continuously: Data captured continuously and transmitted to centralized platforms (cloud/local server)
-- [ ] Thresholds defined: Thresholds defined for acceptable ranges triggering alerts when exceeded
-- [ ] Alerts configured: Alerts configured for critical events (extreme temperatures, low moisture, high EC)
-- [ ] Trends analyzed: Trends analyzed to identify gradual drift or seasonal patterns requiring intervention
-- [ ] Non-destructive root zone assessment deployed: Non-destructive root zone assessment techniques provide nutrient uptake pattern information.
-- [ ] Multi-cycle monitoring records retained: Environmental monitoring records retained for minimum three production cycles supporting trend analysis.
+- [ ] **Sensors deployed**: Sensors deployed measuring soil moisture, temperature, EC, and atmospheric conditions
+- [ ] **Data captured continuously**: Data captured continuously and transmitted to centralized platforms (cloud/local server)
+- [ ] **Thresholds defined**: Thresholds defined for acceptable ranges triggering alerts when exceeded
+- [ ] **Alerts configured**: Alerts configured for critical events (extreme temperatures, low moisture, high EC)
+- [ ] **Trends analyzed**: Trends analyzed to identify gradual drift or seasonal patterns requiring intervention
+- [ ] **Non-destructive root zone assessment deployed**: Non-destructive root zone assessment techniques provide nutrient uptake pattern information.
+- [ ] **Multi-cycle monitoring records retained**: Environmental monitoring records retained for minimum three production cycles supporting trend analysis.
 
 **Progressed by:**
 
@@ -133,13 +133,13 @@ Automated systems adjust conditions in response to sensor feedback and crop requ
 
 **Checklist:**
 
-- [ ] Controllers programmed: Controllers programmed with setpoints and control logic (PID loops, fuzzy logic, rule-based)
-- [ ] Actuators respond automatically: Actuators respond automatically (irrigation valves, HVAC dampers, supplemental lighting)
-- [ ] Setpoints adaptive: Setpoints adaptive to growth stage, weather forecasts, or plant stress indicators
-- [ ] Feedback loops tuned: Feedback loops tuned to minimize oscillation and maintain stability
-- [ ] System stability maintained: System stability maintained despite external disturbances (weather, equipment faults)
-- [ ] In-planta sensor feedback integrated: Wearable or in-planta sensor technologies provide direct physiological feedback from crop to control system.
-- [ ] Manual override protocols established: Override protocols ensure safe manual intervention when automated systems encounter uncalibrated conditions.
+- [ ] **Controllers programmed**: Controllers programmed with setpoints and control logic (PID loops, fuzzy logic, rule-based)
+- [ ] **Actuators respond automatically**: Actuators respond automatically (irrigation valves, HVAC dampers, supplemental lighting)
+- [ ] **Setpoints adaptive**: Setpoints adaptive to growth stage, weather forecasts, or plant stress indicators
+- [ ] **Feedback loops tuned**: Feedback loops tuned to minimize oscillation and maintain stability
+- [ ] **System stability maintained**: System stability maintained despite external disturbances (weather, equipment faults)
+- [ ] **In-planta sensor feedback integrated**: Wearable or in-planta sensor technologies provide direct physiological feedback from crop to control system.
+- [ ] **Manual override protocols established**: Override protocols ensure safe manual intervention when automated systems encounter uncalibrated conditions.
 
 **Progressed by:**
 
@@ -155,13 +155,13 @@ AI-driven forecasting enables proactive environmental modification before stress
 
 **Checklist:**
 
-- [ ] Predictive models validated: Predictive models validated using historical data and crop response trials
-- [ ] Historical data leveraged: Historical environmental and crop performance data leveraged for model training
-- [ ] Weather integrated: Weather forecasts integrated to anticipate irrigation needs, heat stress, or frost risk
-- [ ] Plant responses forecasted: Plant physiological responses forecasted (growth rate, water use, nutrient uptake)
-- [ ] Preemptive adjustments executed: Preemptive adjustments executed (irrigation scheduling, pre-cooling, pre-heating)
-- [ ] Rhizosphere microbiome management proactive: Rhizosphere microbiome management anticipates microbial community shifts and proactively adjusts inputs.
-- [ ] Microbe-sensor integration deployed: Microbe-sensor integration platforms combine biological and digital monitoring for predictive management.
+- [ ] **Predictive models validated**: Predictive models validated using historical data and crop response trials
+- [ ] **Historical data leveraged**: Historical environmental and crop performance data leveraged for model training
+- [ ] **Weather integrated**: Weather forecasts integrated to anticipate irrigation needs, heat stress, or frost risk
+- [ ] **Plant responses forecasted**: Plant physiological responses forecasted (growth rate, water use, nutrient uptake)
+- [ ] **Preemptive adjustments executed**: Preemptive adjustments executed (irrigation scheduling, pre-cooling, pre-heating)
+- [ ] **Rhizosphere microbiome management proactive**: Rhizosphere microbiome management anticipates microbial community shifts and proactively adjusts inputs.
+- [ ] **Microbe-sensor integration deployed**: Microbe-sensor integration platforms combine biological and digital monitoring for predictive management.
 
 **Progressed by:**
 

@@ -18,9 +18,9 @@ Documented irrigation frequency and nutrient formulation per crop.
 
 **Checklist:**
 
-- [ ] Irrigation frequency documented: Irrigation frequency and application method documented per crop.
-- [ ] Nutrient formulation specified: Nutrient solution formulation specified per growth stage.
-- [ ] Application timing aligned: Application timing aligned with crop requirements.
+- [ ] **Irrigation frequency documented**: Irrigation frequency and application method documented per crop.
+- [ ] **Nutrient formulation specified**: Nutrient solution formulation specified per growth stage.
+- [ ] **Application timing aligned**: Application timing aligned with crop requirements.
 
 **Contributes to:**
 
@@ -32,9 +32,9 @@ Schedule extended with sensor monitoring and adjustment rules.
 
 **Checklist:**
 
-- [ ] Monitoring points identified: Sensor monitoring points for EC, pH, and water content identified.
-- [ ] Recording frequency defined: Data recording frequency and threshold-based adjustment rules defined.
-- [ ] Monitoring compliance documented: Compliance with monitoring requirements documented.
+- [ ] **Monitoring points identified**: Sensor monitoring points for EC, pH, and water content identified.
+- [ ] **Recording frequency defined**: Data recording frequency and threshold-based adjustment rules defined.
+- [ ] **Monitoring compliance documented**: Compliance with monitoring requirements documented.
 
 **Contributes to:**
 
@@ -50,9 +50,9 @@ Monitored plan extended with deficit irrigation and automated dosing.
 
 **Checklist:**
 
-- [ ] Deficit irrigation protocols defined: Regulated deficit irrigation protocols with documented water savings defined.
-- [ ] Automated dosing specified: Automated dosing system specifications including feedback control detailed.
-- [ ] Water efficiency targets documented: Water use efficiency targets documented with measurement methodology.
+- [ ] **Deficit irrigation protocols defined**: Regulated deficit irrigation protocols with documented water savings defined.
+- [ ] **Automated dosing specified**: Automated dosing system specifications including feedback control detailed.
+- [ ] **Water efficiency targets documented**: Water use efficiency targets documented with measurement methodology.
 
 **Contributes to:**
 
@@ -70,9 +70,9 @@ Precision plan enhanced with closed-loop recovery and decontamination.
 
 **Checklist:**
 
-- [ ] Nutrient recovery specifications documented: Closed-loop nutrient recovery specifications with substitution rates documented.
-- [ ] Recirculation and decontamination specified: Water recirculation rates and decontamination protocols specified.
-- [ ] Material flow analysis complete: Material flow analysis documenting loop closure rates for each resource stream complete.
+- [ ] **Nutrient recovery specifications documented**: Closed-loop nutrient recovery specifications with substitution rates documented.
+- [ ] **Recirculation and decontamination specified**: Water recirculation rates and decontamination protocols specified.
+- [ ] **Material flow analysis complete**: Material flow analysis documenting loop closure rates for each resource stream complete.
 
 **Contributes to:**
 

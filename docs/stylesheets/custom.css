@@ -1,0 +1,12 @@
+/* Task list checkbox overrides for higher contrast */
+.task-list-control [type="checkbox"] {
+  accent-color: #1a1a1a;
+}
+.task-list-indicator::before {
+  border-color: #555 !important;
+  background-color: #fff !important;
+}
+[checked] + .task-list-indicator::before {
+  background-color: #1a1a1a !important;
+  border-color: #1a1a1a !important;
+}

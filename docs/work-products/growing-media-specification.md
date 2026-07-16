@@ -18,9 +18,9 @@ Substrate components, proportions, and target application.
 
 **Checklist:**
 
-- [ ] Components named with proportions: All substrate components named with proportions by volume specified.
-- [ ] Target application identified: Target crop or growing application identified for the formulation.
-- [ ] Source sustainability documented: Source sustainability credentials documented for each component.
+- [ ] **Components named with proportions**: All substrate components named with proportions by volume specified.
+- [ ] **Target application identified**: Target crop or growing application identified for the formulation.
+- [ ] **Source sustainability documented**: Source sustainability credentials documented for each component.
 
 **Contributes to:**
 
@@ -36,10 +36,10 @@ Full characterisation with tolerance ranges per parameter.
 
 **Checklist:**
 
-- [ ] Physical properties quantified: Air-filled porosity, water-holding capacity, and bulk density quantified.
-- [ ] Chemical properties determined: pH, EC, cation exchange capacity, and baseline nutrients determined.
-- [ ] Tolerance ranges defined: Acceptable tolerance ranges defined for each measured parameter.
-- [ ] Standardised methods referenced: CEN or ISHS standardised methods referenced for all measurements.
+- [ ] **Physical properties quantified**: Air-filled porosity, water-holding capacity, and bulk density quantified.
+- [ ] **Chemical properties determined**: pH, EC, cation exchange capacity, and baseline nutrients determined.
+- [ ] **Tolerance ranges defined**: Acceptable tolerance ranges defined for each measured parameter.
+- [ ] **Standardised methods referenced**: CEN or ISHS standardised methods referenced for all measurements.
 
 **Contributes to:**
 
@@ -55,10 +55,10 @@ Specification with documented crop trial results.
 
 **Checklist:**
 
-- [ ] Crop trials demonstrate performance: Replicated crop trials demonstrate performance meeting defined benchmarks.
-- [ ] Peat-free transition evidence provided: Peat-free transition evidence provided where applicable.
-- [ ] Pathogen risk assessed: Pathogen risk assessment completed for organic alternative components.
-- [ ] Substrate stability validated: Substrate stability over the production cycle validated.
+- [ ] **Crop trials demonstrate performance**: Replicated crop trials demonstrate performance meeting defined benchmarks.
+- [ ] **Peat-free transition evidence provided**: Peat-free transition evidence provided where applicable.
+- [ ] **Pathogen risk assessed**: Pathogen risk assessment completed for organic alternative components.
+- [ ] **Substrate stability validated**: Substrate stability over the production cycle validated.
 
 **Contributes to:**
 
@@ -76,10 +76,10 @@ Comprehensive specification with circular economy credentials.
 
 **Checklist:**
 
-- [ ] Sourcing sustainability incorporated: Sourcing sustainability and carbon footprint data incorporated.
-- [ ] End-of-life pathway documented: End-of-life disposal or recycling pathway documented.
-- [ ] Circular economy credentials verified: Circular economy credentials verified for the complete material cycle.
-- [ ] Specification version-controlled: Version-controlled specification reviewed when sources change.
+- [ ] **Sourcing sustainability incorporated**: Sourcing sustainability and carbon footprint data incorporated.
+- [ ] **End-of-life pathway documented**: End-of-life disposal or recycling pathway documented.
+- [ ] **Circular economy credentials verified**: Circular economy credentials verified for the complete material cycle.
+- [ ] **Specification version-controlled**: Version-controlled specification reviewed when sources change.
 
 **Contributes to:**
 

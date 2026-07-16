@@ -18,9 +18,9 @@ Fixed-interval maintenance tasks by equipment category and date.
 
 **Checklist:**
 
-- [ ] Tasks listed with dates: Maintenance tasks listed by equipment category with scheduled dates.
-- [ ] Personnel assigned: Task descriptions and responsible personnel assigned.
-- [ ] Frequency aligned with manufacturer: Scheduling frequency aligned with manufacturer recommendations.
+- [ ] **Tasks listed with dates**: Maintenance tasks listed by equipment category with scheduled dates.
+- [ ] **Personnel assigned**: Task descriptions and responsible personnel assigned.
+- [ ] **Frequency aligned with manufacturer**: Scheduling frequency aligned with manufacturer recommendations.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Calendar schedule enhanced with procedures and safety precautions.
 
 **Checklist:**
 
-- [ ] Procedures documented per type: Manufacturer-specified procedures documented per equipment type.
-- [ ] Parts and duration recorded: Required parts, consumables, and estimated duration recorded.
-- [ ] Safety precautions specified: Safety precautions and compliance requirements specified.
+- [ ] **Procedures documented per type**: Manufacturer-specified procedures documented per equipment type.
+- [ ] **Parts and duration recorded**: Required parts, consumables, and estimated duration recorded.
+- [ ] **Safety precautions specified**: Safety precautions and compliance requirements specified.
 
 **Contributes to:**
 
@@ -55,9 +55,9 @@ Detailed plan augmented with IoT monitoring and predictive thresholds.
 
 **Checklist:**
 
-- [ ] IoT monitoring parameters specified: IoT condition monitoring parameters specified per equipment class.
-- [ ] Degradation thresholds defined: Degradation thresholds triggering maintenance intervention defined.
-- [ ] Transition to condition-based documented: Documented transition from time-based to condition-based scheduling recorded.
+- [ ] **IoT monitoring parameters specified**: IoT condition monitoring parameters specified per equipment class.
+- [ ] **Degradation thresholds defined**: Degradation thresholds triggering maintenance intervention defined.
+- [ ] **Transition to condition-based documented**: Documented transition from time-based to condition-based scheduling recorded.
 
 **Contributes to:**
 

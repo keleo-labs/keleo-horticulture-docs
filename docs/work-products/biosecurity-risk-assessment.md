@@ -18,9 +18,9 @@ Enumeration of introduction pathways with basic mitigations.
 
 **Checklist:**
 
-- [ ] Introduction pathways enumerated: Introduction pathways enumerated including imports, visitors, and water sources.
-- [ ] Basic mitigations listed: Basic mitigation measures listed for each identified pathway.
-- [ ] Dispersal routes assessed: Wind-borne and vector-mediated dispersal routes assessed.
+- [ ] **Introduction pathways enumerated**: Introduction pathways enumerated including imports, visitors, and water sources.
+- [ ] **Basic mitigations listed**: Basic mitigation measures listed for each identified pathway.
+- [ ] **Dispersal routes assessed**: Wind-borne and vector-mediated dispersal routes assessed.
 
 **Contributes to:**
 
@@ -32,9 +32,9 @@ Systematic assessment scoring pathways by likelihood and consequence.
 
 **Checklist:**
 
-- [ ] Pathways scored by likelihood and consequence: Each pathway scored by likelihood and consequence using structured matrix.
-- [ ] High-priority risks identified: High-priority risks identified with specific control measures documented.
-- [ ] Import categorisation framework applied: Risk-based import categorisation framework applied per Defra guidance.
+- [ ] **Pathways scored by likelihood and consequence**: Each pathway scored by likelihood and consequence using structured matrix.
+- [ ] **High-priority risks identified**: High-priority risks identified with specific control measures documented.
+- [ ] **Import categorisation framework applied**: Risk-based import categorisation framework applied per Defra guidance.
 
 **Contributes to:**
 
@@ -50,10 +50,10 @@ Comprehensive risk management with surveillance and contingency planning.
 
 **Checklist:**
 
-- [ ] Surveillance and quarantine documented: Surveillance protocols and quarantine procedures documented.
-- [ ] Diagnostic capability mapped: Diagnostic capability mapping completed with contingency response plans.
-- [ ] Training and audit aligned: Staff training records and annual audit schedules aligned with Plant Healthy scheme.
-- [ ] Contingency plans address high-priority organisms: Contingency plans address each high-priority organism identified in risk matrix.
+- [ ] **Surveillance and quarantine documented**: Surveillance protocols and quarantine procedures documented.
+- [ ] **Diagnostic capability mapped**: Diagnostic capability mapping completed with contingency response plans.
+- [ ] **Training and audit aligned**: Staff training records and annual audit schedules aligned with Plant Healthy scheme.
+- [ ] **Contingency plans address high-priority organisms**: Contingency plans address each high-priority organism identified in risk matrix.
 
 **Contributes to:**
 

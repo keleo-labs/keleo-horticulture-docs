@@ -18,9 +18,9 @@ Single-page summary of cultivation type, crops, and budget.
 
 **Checklist:**
 
-- [ ] Cultivation system type identified: Cultivation system type identified with target crops and production capacity stated.
-- [ ] Capital budget estimated: Approximate capital budget with high-level cost estimate documented.
-- [ ] Spatial layout sketched: High-level spatial layout showing major zones and flow paths sketched.
+- [ ] **Cultivation system type identified**: Cultivation system type identified with target crops and production capacity stated.
+- [ ] **Capital budget estimated**: Approximate capital budget with high-level cost estimate documented.
+- [ ] **Spatial layout sketched**: High-level spatial layout showing major zones and flow paths sketched.
 
 **Contributes to:**
 
@@ -32,10 +32,10 @@ Multi-page specification with schematics and bill of materials.
 
 **Checklist:**
 
-- [ ] Structural dimensions specified: Structural dimensions and envelope materials specified with schematic drawings.
-- [ ] Cultivation architecture documented: Cultivation system architecture documented with hydraulic design overview.
-- [ ] Climate strategy specified: Climate control strategy specified with energy budget estimates.
-- [ ] Bill of materials compiled: Bill of materials compiled with cost projections.
+- [ ] **Structural dimensions specified**: Structural dimensions and envelope materials specified with schematic drawings.
+- [ ] **Cultivation architecture documented**: Cultivation system architecture documented with hydraulic design overview.
+- [ ] **Climate strategy specified**: Climate control strategy specified with energy budget estimates.
+- [ ] **Bill of materials compiled**: Bill of materials compiled with cost projections.
 
 **Contributes to:**
 
@@ -47,10 +47,10 @@ Complete engineering specification with compliance verification.
 
 **Checklist:**
 
-- [ ] FEA structural analysis validated: Finite element structural analysis validates integrity under environmental loads.
-- [ ] Passive cooling documented: Passive cooling strategy documentation covers airflow and thermal storage.
-- [ ] Electrical and compliance verified: Electrical load calculations and compliance with BS EN 13031-1 verified.
-- [ ] ASHRAE compliance documented: ASHRAE energy standards compliance documented.
+- [ ] **FEA structural analysis validated**: Finite element structural analysis validates integrity under environmental loads.
+- [ ] **Passive cooling documented**: Passive cooling strategy documentation covers airflow and thermal storage.
+- [ ] **Electrical and compliance verified**: Electrical load calculations and compliance with BS EN 13031-1 verified.
+- [ ] **ASHRAE compliance documented**: ASHRAE energy standards compliance documented.
 
 **Contributes to:**
 
@@ -67,10 +67,10 @@ Computationally optimized design with digital twin specifications.
 
 **Checklist:**
 
-- [ ] Computational optimization integrated: Computational optimization outputs from genetic algorithms or mathematical models integrated.
-- [ ] Digital twin specifications documented: Digital twin integration specifications defining sensor placement and data flows documented.
-- [ ] Energy simulation benchmarks validated: Energy simulation benchmarks validated against reference facilities.
-- [ ] Performance models documented: Performance prediction models documented with accuracy metrics.
+- [ ] **Computational optimization integrated**: Computational optimization outputs from genetic algorithms or mathematical models integrated.
+- [ ] **Digital twin specifications documented**: Digital twin integration specifications defining sensor placement and data flows documented.
+- [ ] **Energy simulation benchmarks validated**: Energy simulation benchmarks validated against reference facilities.
+- [ ] **Performance models documented**: Performance prediction models documented with accuracy metrics.
 
 **Contributes to:**
 

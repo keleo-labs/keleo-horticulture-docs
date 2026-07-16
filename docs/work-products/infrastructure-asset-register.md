@@ -18,9 +18,9 @@ Enumerated register of installed equipment with identifiers.
 
 **Checklist:**
 
-- [ ] Equipment items catalogued: Each equipment item has description, manufacturer, model, and serial number.
-- [ ] Installation details recorded: Installation date and physical location recorded.
-- [ ] Equipment categories established: Equipment categories established for systematic tracking.
+- [ ] **Equipment items catalogued**: Each equipment item has description, manufacturer, model, and serial number.
+- [ ] **Installation details recorded**: Installation date and physical location recorded.
+- [ ] **Equipment categories established**: Equipment categories established for systematic tracking.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Equipment list extended with cost and specification parameters.
 
 **Checklist:**
 
-- [ ] Procurement cost documented: Procurement cost and warranty terms documented per asset.
-- [ ] Service agreements recorded: Service agreements and specification parameters recorded.
-- [ ] Connectivity details documented: Network connectivity details and spatial fit documented.
+- [ ] **Procurement cost documented**: Procurement cost and warranty terms documented per asset.
+- [ ] **Service agreements recorded**: Service agreements and specification parameters recorded.
+- [ ] **Connectivity details documented**: Network connectivity details and spatial fit documented.
 
 **Contributes to:**
 
@@ -55,9 +55,9 @@ Asset records augmented with maintenance history and depreciation.
 
 **Checklist:**
 
-- [ ] Maintenance history linked: Maintenance history and calibration records linked to each asset.
-- [ ] Firmware and depreciation tracked: Firmware versions and depreciation schedules tracked.
-- [ ] Remaining useful life documented: Predicted remaining useful life and spare parts inventory documented.
+- [ ] **Maintenance history linked**: Maintenance history and calibration records linked to each asset.
+- [ ] **Firmware and depreciation tracked**: Firmware versions and depreciation schedules tracked.
+- [ ] **Remaining useful life documented**: Predicted remaining useful life and spare parts inventory documented.
 
 **Contributes to:**
 
@@ -74,9 +74,9 @@ Lifecycle register enhanced with IoT telemetry and ML models.
 
 **Checklist:**
 
-- [ ] IoT telemetry integration defined: IoT telemetry integration specifications defined per asset class.
-- [ ] ML model assignments documented: Machine learning model assignments for failure prediction documented.
-- [ ] Predictive thresholds recorded: Condition-based maintenance thresholds and predictive accuracy metrics recorded.
+- [ ] **IoT telemetry integration defined**: IoT telemetry integration specifications defined per asset class.
+- [ ] **ML model assignments documented**: Machine learning model assignments for failure prediction documented.
+- [ ] **Predictive thresholds recorded**: Condition-based maintenance thresholds and predictive accuracy metrics recorded.
 
 **Contributes to:**
 

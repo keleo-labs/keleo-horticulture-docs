@@ -18,9 +18,9 @@ Identification of waste streams amenable to recovery with volumes.
 
 **Checklist:**
 
-- [ ] Waste streams identified: Waste streams including nutrient solutions, growing media, and crop residues identified.
-- [ ] Volumes documented: Estimated volumes for each waste stream documented.
-- [ ] Recovery potential assessed: Recovery potential assessed for each stream.
+- [ ] **Waste streams identified**: Waste streams including nutrient solutions, growing media, and crop residues identified.
+- [ ] **Volumes documented**: Estimated volumes for each waste stream documented.
+- [ ] **Recovery potential assessed**: Recovery potential assessed for each stream.
 
 **Contributes to:**
 
@@ -32,9 +32,9 @@ Recovery technologies specified with process flow diagrams.
 
 **Checklist:**
 
-- [ ] Recovery technologies specified: Recovery technologies (phosphorus precipitation, UV-C, composting) specified per stream.
-- [ ] Process flow diagrams documented: Process flow diagrams document material transformation pathways.
-- [ ] Quality specifications defined: Quality specifications for recovered materials defined.
+- [ ] **Recovery technologies specified**: Recovery technologies (phosphorus precipitation, UV-C, composting) specified per stream.
+- [ ] **Process flow diagrams documented**: Process flow diagrams document material transformation pathways.
+- [ ] **Quality specifications defined**: Quality specifications for recovered materials defined.
 
 **Contributes to:**
 
@@ -50,9 +50,9 @@ Measured recovery rates with lifecycle assessment comparisons.
 
 **Checklist:**
 
-- [ ] Recovery rates documented: Measured recovery rates and substitution ratios for virgin materials documented.
-- [ ] LCA comparisons completed: Lifecycle assessment comparisons against linear alternatives completed.
-- [ ] Regulatory compliance maintained: Regulatory compliance documentation for recovered material use maintained.
+- [ ] **Recovery rates documented**: Measured recovery rates and substitution ratios for virgin materials documented.
+- [ ] **LCA comparisons completed**: Lifecycle assessment comparisons against linear alternatives completed.
+- [ ] **Regulatory compliance maintained**: Regulatory compliance documentation for recovered material use maintained.
 
 **Contributes to:**
 

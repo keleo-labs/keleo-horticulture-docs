@@ -18,9 +18,9 @@ Tabulated record of calibration dates and deviations per sensor.
 
 **Checklist:**
 
-- [ ] Calibration date recorded: Calibration date and reference standard used recorded per sensor.
-- [ ] Deviation documented: Measured deviation and corrective adjustment documented.
-- [ ] Next calibration scheduled: Next calibration due date established.
+- [ ] **Calibration date recorded**: Calibration date and reference standard used recorded per sensor.
+- [ ] **Deviation documented**: Measured deviation and corrective adjustment documented.
+- [ ] **Next calibration scheduled**: Next calibration due date established.
 
 **Contributes to:**
 
@@ -37,9 +37,9 @@ Step-by-step procedures with tolerance ranges and triggers.
 
 **Checklist:**
 
-- [ ] Procedures documented per sensor type: Step-by-step calibration procedures documented per sensor type.
-- [ ] Tolerance ranges defined: Acceptable tolerance ranges and recalibration trigger criteria defined.
-- [ ] Responsible personnel identified: Responsible personnel identified for each sensor class.
+- [ ] **Procedures documented per sensor type**: Step-by-step calibration procedures documented per sensor type.
+- [ ] **Tolerance ranges defined**: Acceptable tolerance ranges and recalibration trigger criteria defined.
+- [ ] **Responsible personnel identified**: Responsible personnel identified for each sensor class.
 
 **Contributes to:**
 
@@ -57,9 +57,9 @@ Cross-sensor consistency with noise characterization and filtering.
 
 **Checklist:**
 
-- [ ] Cross-sensor checks performed: Cross-sensor consistency checks compare co-located sensor readings.
-- [ ] Filtering methods documented: Data filtering method documentation (Kalman filter, wavelet transform) provided.
-- [ ] Noise characterization complete: Noise characterization and redundancy analysis across overlapping coverage complete.
+- [ ] **Cross-sensor checks performed**: Cross-sensor consistency checks compare co-located sensor readings.
+- [ ] **Filtering methods documented**: Data filtering method documentation (Kalman filter, wavelet transform) provided.
+- [ ] **Noise characterization complete**: Noise characterization and redundancy analysis across overlapping coverage complete.
 
 **Contributes to:**
 

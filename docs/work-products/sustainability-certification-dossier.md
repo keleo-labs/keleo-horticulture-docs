@@ -18,9 +18,9 @@ Completed self-assessment identifying compliance gaps.
 
 **Checklist:**
 
-- [ ] Certification requirements assessed: Requirements of target certification scheme assessed point by point.
-- [ ] Compliance gaps identified: Areas of compliance and gaps requiring remediation identified.
-- [ ] Remediation timeline established: Remediation timeline established for identified gaps.
+- [ ] **Certification requirements assessed**: Requirements of target certification scheme assessed point by point.
+- [ ] **Compliance gaps identified**: Areas of compliance and gaps requiring remediation identified.
+- [ ] **Remediation timeline established**: Remediation timeline established for identified gaps.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Structured portfolio prepared for external auditor review.
 
 **Checklist:**
 
-- [ ] Evidence organised by requirement: Policies, procedures, and monitoring records organised by certification requirement.
-- [ ] Improvement plans documented: Improvement plans documented with measurable targets.
-- [ ] Evidence portfolio prepared: Evidence portfolio prepared for external auditor examination.
+- [ ] **Evidence organised by requirement**: Policies, procedures, and monitoring records organised by certification requirement.
+- [ ] **Improvement plans documented**: Improvement plans documented with measurable targets.
+- [ ] **Evidence portfolio prepared**: Evidence portfolio prepared for external auditor examination.
 
 **Contributes to:**
 
@@ -54,9 +54,9 @@ Dossier demonstrating simultaneous multi-standard compliance.
 
 **Checklist:**
 
-- [ ] Multiple standards cross-referenced: LEAF Marque, MPS-GAP, GLOBALG.A.P., and BNG requirements cross-referenced.
-- [ ] Overlapping requirements mapped: Overlapping requirements mapped to eliminate evidence duplication.
-- [ ] Continuous audit readiness maintained: Continuous audit readiness maintained across all certified standards.
+- [ ] **Multiple standards cross-referenced**: LEAF Marque, MPS-GAP, GLOBALG.A.P., and BNG requirements cross-referenced.
+- [ ] **Overlapping requirements mapped**: Overlapping requirements mapped to eliminate evidence duplication.
+- [ ] **Continuous audit readiness maintained**: Continuous audit readiness maintained across all certified standards.
 
 **Contributes to:**
 

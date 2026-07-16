@@ -18,9 +18,9 @@ Catalogue of observed species compiled through surveys.
 
 **Checklist:**
 
-- [ ] Species catalogued across taxa: Plant, invertebrate, bird, and mammal species catalogued.
-- [ ] Standardised survey methods applied: Standardised survey methods applied for each taxonomic group.
-- [ ] Survey timing aligned seasonally: Survey timing aligned with seasonal activity patterns.
+- [ ] **Species catalogued across taxa**: Plant, invertebrate, bird, and mammal species catalogued.
+- [ ] **Standardised survey methods applied**: Standardised survey methods applied for each taxonomic group.
+- [ ] **Survey timing aligned seasonally**: Survey timing aligned with seasonal activity patterns.
 
 **Contributes to:**
 
@@ -37,9 +37,9 @@ Scored assessment using Biodiversity Metric or equivalent.
 
 **Checklist:**
 
-- [ ] Habitat types mapped and scored: Habitat types mapped with extent and condition scored.
-- [ ] Biodiversity Metric applied: Biodiversity Metric applied for BNG baseline calculation.
-- [ ] Connectivity assessed: Connectivity and strategic significance assessed per methodology.
+- [ ] **Habitat types mapped and scored**: Habitat types mapped with extent and condition scored.
+- [ ] **Biodiversity Metric applied**: Biodiversity Metric applied for BNG baseline calculation.
+- [ ] **Connectivity assessed**: Connectivity and strategic significance assessed per methodology.
 
 **Contributes to:**
 
@@ -56,9 +56,9 @@ Report demonstrating required percentage gain is achieved.
 
 **Checklist:**
 
-- [ ] 10% biodiversity gain demonstrated: Minimum 10% biodiversity gain demonstrated using statutory methodology.
-- [ ] 30-year maintenance secured: Thirty-year maintenance mechanisms contractually secured.
-- [ ] Monitoring schedules defined: Monitoring schedules defined for ongoing compliance verification.
+- [ ] **10% biodiversity gain demonstrated**: Minimum 10% biodiversity gain demonstrated using statutory methodology.
+- [ ] **30-year maintenance secured**: Thirty-year maintenance mechanisms contractually secured.
+- [ ] **Monitoring schedules defined**: Monitoring schedules defined for ongoing compliance verification.
 
 **Contributes to:**
 

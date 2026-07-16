@@ -18,9 +18,9 @@ Total energy consumption disaggregated by major category.
 
 **Checklist:**
 
-- [ ] Consumption reported by category: Energy consumption per production period reported by lighting, HVAC, irrigation, and auxiliary.
-- [ ] Figures verified against meters: Total consumption figures verified against metered data.
-- [ ] Reporting period defined: Reporting period clearly defined.
+- [ ] **Consumption reported by category**: Energy consumption per production period reported by lighting, HVAC, irrigation, and auxiliary.
+- [ ] **Figures verified against meters**: Total consumption figures verified against metered data.
+- [ ] **Reporting period defined**: Reporting period clearly defined.
 
 **Contributes to:**
 
@@ -37,9 +37,9 @@ Consumption compared against ASHRAE benchmarks and projections.
 
 **Checklist:**
 
-- [ ] ASHRAE comparison documented: ASHRAE benchmark comparison documented with variance analysis.
-- [ ] Design projection comparison shown: Design-stage projection comparison shows deviation trends.
-- [ ] Efficiency ratios calculated: Efficiency ratios per unit of production calculated.
+- [ ] **ASHRAE comparison documented**: ASHRAE benchmark comparison documented with variance analysis.
+- [ ] **Design projection comparison shown**: Design-stage projection comparison shows deviation trends.
+- [ ] **Efficiency ratios calculated**: Efficiency ratios per unit of production calculated.
 
 **Contributes to:**
 
@@ -57,9 +57,9 @@ Analysis extended with documented intervention impacts and trends.
 
 **Checklist:**
 
-- [ ] LED savings quantified: LED replacement savings quantified against HPS baseline.
-- [ ] Dynamic scheduling impacts documented: Dynamic lighting and smart HVAC scheduling impacts documented.
-- [ ] Renewable contribution reported: Renewable energy contribution and trend analysis across periods reported.
+- [ ] **LED savings quantified**: LED replacement savings quantified against HPS baseline.
+- [ ] **Dynamic scheduling impacts documented**: Dynamic lighting and smart HVAC scheduling impacts documented.
+- [ ] **Renewable contribution reported**: Renewable energy contribution and trend analysis across periods reported.
 
 **Contributes to:**
 

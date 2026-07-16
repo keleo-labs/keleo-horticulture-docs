@@ -18,9 +18,9 @@ Tabulated environmental targets by crop type and growth stage.
 
 **Checklist:**
 
-- [ ] Environmental targets specified: Temperature, humidity, CO2, and light targets specified per crop and stage.
-- [ ] Deviation tolerances included: Setpoint ranges include acceptable deviation tolerances.
-- [ ] Seasonal adjustments documented: Seasonal adjustment requirements documented.
+- [ ] **Environmental targets specified**: Temperature, humidity, CO2, and light targets specified per crop and stage.
+- [ ] **Deviation tolerances included**: Setpoint ranges include acceptable deviation tolerances.
+- [ ] **Seasonal adjustments documented**: Seasonal adjustment requirements documented.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Setpoints extended with control algorithms and tuning parameters.
 
 **Checklist:**
 
-- [ ] Control algorithm documented: Control algorithm type (PID, neural network, MPC) identified and documented.
-- [ ] Sensor-actuator mapping specified: Sensor input mapping and actuator output mapping specified.
-- [ ] Alarm thresholds recorded: Alarm thresholds and tuning parameters recorded.
+- [ ] **Control algorithm documented**: Control algorithm type (PID, neural network, MPC) identified and documented.
+- [ ] **Sensor-actuator mapping specified**: Sensor input mapping and actuator output mapping specified.
+- [ ] **Alarm thresholds recorded**: Alarm thresholds and tuning parameters recorded.
 
 **Contributes to:**
 
@@ -55,9 +55,9 @@ Multi-system coordination logic with AI optimization parameters.
 
 **Checklist:**
 
-- [ ] Coordination logic documented: Coordination logic between HVAC, lighting, CO2, and ventilation documented.
-- [ ] AI optimization specified: AI optimization parameters and energy reduction targets specified.
-- [ ] Cross-system dependencies mapped: Cross-system dependency mapping complete.
+- [ ] **Coordination logic documented**: Coordination logic between HVAC, lighting, CO2, and ventilation documented.
+- [ ] **AI optimization specified**: AI optimization parameters and energy reduction targets specified.
+- [ ] **Cross-system dependencies mapped**: Cross-system dependency mapping complete.
 
 **Contributes to:**
 
@@ -74,9 +74,9 @@ Digital twin coupling with reinforcement learning boundaries.
 
 **Checklist:**
 
-- [ ] Digital twin coupling defined: Digital twin coupling specifications and reward functions defined.
-- [ ] Decision boundaries documented: Autonomous decision boundaries and safety limits documented.
-- [ ] Performance comparison validated: Performance comparison against human-managed baselines validated.
+- [ ] **Digital twin coupling defined**: Digital twin coupling specifications and reward functions defined.
+- [ ] **Decision boundaries documented**: Autonomous decision boundaries and safety limits documented.
+- [ ] **Performance comparison validated**: Performance comparison against human-managed baselines validated.
 
 **Contributes to:**
 
