@@ -18,9 +18,9 @@ Calendar-based application plan by crop and growth phase.
 
 **Checklist:**
 
-- [ ] **Product and rate specified**: Product, rate, and timing specified for each crop and growth phase.
-- [ ] **Application method documented**: Application method documented for each scheduled intervention.
-- [ ] **Seasonal adjustments defined**: Seasonal adjustments defined based on growth stage transitions.
+- [ ] **Product and rate specified**: Product, rate, and timing specified for each crop and growth phase by internal or external auditors.
+- [ ] **Application method**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
+- [ ] **Seasonal adjustments**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
 
 **Contributes to:**
 
@@ -32,10 +32,10 @@ Plan with tissue analysis triggers and adjustment rules.
 
 **Checklist:**
 
-- [ ] **Tissue analysis triggers defined**: Tissue analysis trigger points defined for nutrient adjustment.
-- [ ] **Substrate monitoring thresholds set**: Substrate solution monitoring thresholds established.
-- [ ] **Decision rules govern adjustments**: Decision rules govern feed composition and concentration changes.
-- [ ] **Monitoring frequency specified**: Monitoring frequency specified for each growth stage.
+- [ ] **Tissue analysis triggers**: Tissue analysis trigger points defined for nutrient adjustment by internal or external auditors.
+- [ ] **Substrate monitoring thresholds set**: Substrate solution monitoring thresholds established, with systematic data collection, trend analysis, and documented response protocols for threshold exceedances.
+- [ ] **Decision rules govern adjustments**: Decision rules govern feed composition and concentration changes by internal or external auditors.
+- [ ] **Monitoring frequency specified**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
 
 **Contributes to:**
 
@@ -47,9 +47,9 @@ Data-driven programme with real-time sensor feedback.
 
 **Checklist:**
 
-- [ ] **Real-time sensor feedback governs adjustments**: Real-time sensor feedback from root zone EC, pH, and ion probes governs adjustments.
-- [ ] **Algorithms link data to parameters**: Documented algorithms link sensor data to fertigation system parameters.
-- [ ] **Nutrient delivery dynamically optimised**: Nutrient delivery dynamically optimised based on measured crop demand.
+- [ ] **Real-time sensor feedback governs adjustments**: Real-time sensor feedback from root zone EC, pH, and ion probes governs adjustments by internal or external auditors.
+- [ ] **Algorithms link data to parameters**: Documented algorithms link sensor data to fertigation system parameters by internal or external auditors.
+- [ ] **Nutrient delivery dynamically optimised**: Nutrient delivery dynamically optimised based on measured crop demand by internal or external auditors.
 
 **Contributes to:**
 

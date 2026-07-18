@@ -44,9 +44,9 @@ STAR narrative for performing plant health assessments.
 
 ## Competencies
 
-- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Masters
+- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 - [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Applies
-- [Digital Technology](../../../competencies/digital-technology.md) — Applies
+- [Digital Technology](../../../competencies/digital-technology.md) — Basic
 
 ## Required Competencies
 

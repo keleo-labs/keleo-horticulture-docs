@@ -46,7 +46,7 @@ STAR narrative for growing media characterisation and formulation.
 
 ## Competencies
 
-- [Growing Media Management](../../../competencies/growing-media-management.md) — Masters
+- [Growing Media Management](../../../competencies/growing-media-management.md) — Applies
 - [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 - [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Applies
 

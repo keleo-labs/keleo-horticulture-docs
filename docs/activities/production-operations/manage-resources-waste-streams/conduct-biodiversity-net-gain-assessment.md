@@ -45,8 +45,9 @@ STAR narrative for biodiversity net gain assessment.
 
 ## Competencies
 
-- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Adapts
-- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Masters
+- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Masters
+- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
+- [Business & Project Management](../../../competencies/business-project-management.md) — Applies
 
 ## Required Competencies
 

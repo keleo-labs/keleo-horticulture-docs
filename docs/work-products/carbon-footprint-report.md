@@ -18,9 +18,9 @@ Total GHG emissions disaggregated by Scope 1, 2, and 3.
 
 **Checklist:**
 
-- [ ] **Emissions calculated in CO2 equivalents**: Emissions calculated in CO2 equivalents for defined reporting period.
-- [ ] **Scope categories disaggregated**: Scope 1, 2, and material Scope 3 categories disaggregated.
-- [ ] **Emission factors sourced**: Emission factors sourced from recognised databases.
+- [ ] **Emissions calculated in CO2 equivalents**: Emissions calculated in CO2 equivalents for defined reporting period by internal or external auditors.
+- [ ] **Scope categories disaggregated**: Scope 1, 2, and material Scope 3 categories disaggregated by internal or external auditors.
+- [ ] **Emission factors sourced**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
 
 **Contributes to:**
 
@@ -36,9 +36,9 @@ Cradle-to-gate LCA using PAS 2050-1 methodology.
 
 **Checklist:**
 
-- [ ] **System boundary defined**: System boundary and allocation rules defined per PAS 2050-1.
-- [ ] **Horticultural emission sources addressed**: Horticultural-specific emission sources addressed (CHP, crop rotation, soil carbon).
-- [ ] **Uncertainty analysis documented**: Uncertainty analysis documented alongside results.
+- [ ] **System boundary**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
+- [ ] **Horticultural emission sources addressed**: Horticultural-specific emission sources addressed (CHP, crop rotation, soil carbon) by internal or external auditors.
+- [ ] **Uncertainty analysis**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
 
 **Contributes to:**
 
@@ -54,9 +54,9 @@ Emissions integrated with sequestration credits and offsets.
 
 **Checklist:**
 
-- [ ] **Sequestration credits quantified**: Sequestration credits from soil carbon, biomass, and biochar quantified.
-- [ ] **Offset programmes documented**: Verified offset or insetting programmes documented.
-- [ ] **Net carbon position determined**: Net carbon position determined demonstrating balance or net negative status.
+- [ ] **Sequestration credits quantified**: Sequestration credits from soil carbon, biomass, and biochar quantified by internal or external auditors.
+- [ ] **Offset programmes**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
+- [ ] **Net carbon position determined**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
 
 **Contributes to:**
 
@@ -72,9 +72,9 @@ Full hybrid analysis capturing upstream supply chain emissions.
 
 **Checklist:**
 
-- [ ] **Hybrid methodology captures additional emissions**: Hybrid methodology captures emissions missed by process-based LCA.
-- [ ] **Comparative analysis documented**: Comparative analysis against conventional LCA results documented.
-- [ ] **Supply chain hotspots identified**: Supply chain emission hotspots identified for targeted reduction.
+- [ ] **Hybrid methodology captures additional emissions**: Hybrid methodology captures emissions missed by process-based LCA by internal or external auditors.
+- [ ] **Comparative analysis**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
+- [ ] **Supply chain hotspots identified**: Supply chain emission hotspots identified for targeted reduction by internal or external auditors.
 
 **Contributes to:**
 

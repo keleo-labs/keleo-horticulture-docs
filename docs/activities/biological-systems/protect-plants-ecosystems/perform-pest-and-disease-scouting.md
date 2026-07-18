@@ -41,7 +41,7 @@ STAR narrative for pest and disease scouting activities.
 
 ## Competencies
 
-- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Masters
+- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Applies
 - [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 - [Digital Technology](../../../competencies/digital-technology.md) — Applies
 

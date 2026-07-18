@@ -40,12 +40,17 @@ Physical and chemical properties of substrate/soil and atmospheric conditions me
 **Checklist:**
 
 - [ ] **pH and EC measured**: pH and electrical conductivity (EC) measured regularly using calibrated meters
+- [ ] **pH and Conductivity Profile**: Substrate pH and electrical conductivity measured weekly using calibrated meters with results plotted against crop-specific optimal ranges.
 - [ ] **Texture and structure analyzed**: Texture and structure analyzed (particle size distribution, aggregate stability, bulk density)
+- [ ] **Physical Structure Analysis**: Particle size distribution, bulk density, and aggregate stability determined through laboratory sieve analysis and penetrometer testing.
 - [ ] **Nutrient content assessed**: Nutrient content assessed through soil/substrate testing (N, P, K, Ca, Mg, micronutrients)
+- [ ] **Nutrient Availability Assay**: Total and plant-available N, P, K, Ca, Mg, and micronutrients quantified using Mehlich-3 extraction or equivalent accredited test methods.
 - [ ] **Temperature and humidity logged**: Temperature and humidity logged continuously or at critical times (daily min/max, VPD)
+- [ ] **Climate Data Logging**: Continuous recording of air temperature, relative humidity, and vapor pressure deficit at canopy height using calibrated data loggers.
 - [ ] **Light quantified**: Light intensity and spectrum quantified (PPFD, DLI, R:FR ratio)
-- [ ] **Indigenous microbial community profiled**: Indigenous microbial community composition profiled through culture-based or molecular methods.
-- [ ] **Pathogen risk of substrates assessed**: Pathogen risk associated with substrate materials assessed, particularly oomycete contamination in organic peat alternatives.
+- [ ] **Light Spectrum Quantification**: Photosynthetic photon flux density, daily light integral, and red:far-red ratio measured with quantum sensors at crop height.
+- [ ] **Microbial Community Profiling**: 16S rRNA sequencing or culture-based enumeration characterizes bacterial and fungal populations in the rhizosphere.
+- [ ] **Pathogen Risk Screening**: Peat-free substrate components tested for Pythium, Phytophthora, or other oomycete contamination using selective media or molecular diagnostics.
 
 **Progressed by:**
 
@@ -64,12 +69,17 @@ Growing media formulated or amended and site conditions modified to support targ
 **Checklist:**
 
 - [ ] **Substrate recipe selected**: Substrate recipe selected based on crop requirements (drainage, aeration, water-holding capacity)
+- [ ] **Substrate Formulation Selection**: Growing media recipes specify particle size ratios, air-filled porosity, and water-holding capacity matched to crop root architecture and irrigation strategy.
 - [ ] **Organic matter incorporated**: Organic matter incorporated to improve soil structure and microbial activity
+- [ ] **Organic Amendment Integration**: Compost, biochar, or other organic materials incorporated at defined rates to achieve target C:N ratio and support beneficial microbial colonization.
 - [ ] **Drainage established**: Drainage systems established to prevent waterlogging and root anoxia
+- [ ] **Drainage Infrastructure**: Subsurface drains, gravel layers, or contouring prevent waterlogging and maintain root zone oxygen availability above 10% air-filled porosity.
 - [ ] **pH adjusted**: pH adjusted using lime (to raise) or sulfur (to lower) based on crop requirements
+- [ ] **pH Correction Protocols**: Lime application rates calculated from buffer pH tests to raise acidity, or sulfur/aluminum sulfate applied to lower pH to target range.
 - [ ] **Microclimate stabilized**: Microclimate stabilized through windbreaks, shade structures, or thermal mass
-- [ ] **Beneficial microbial inoculants applied**: Beneficial microbial inoculants applied where evidence supports their contribution to crop performance.
-- [ ] **Growing environment verified before planting**: Growing environment verified against crop-specific requirements before planting with documented sign-off.
+- [ ] **Microclimate Stabilization**: Windbreaks reduce wind speed by 50%, shade structures limit peak irradiance, or thermal mass moderates diurnal temperature swings.
+- [ ] **Beneficial Microbial Inoculation**: Mycorrhizal fungi, Trichoderma, or plant growth-promoting rhizobacteria applied at labeled rates where efficacy is demonstrated by trials.
+- [ ] **Pre-Planting Verification**: Growing environment parameters verified against crop-specific requirements through documented sign-off by qualified horticultural staff.
 
 **Progressed by:**
 
@@ -88,12 +98,17 @@ Water-holding capacity, structural aeration, and nutrient availability optimized
 **Checklist:**
 
 - [ ] **Moisture retention adequate**: Moisture retention adequate for crop needs without waterlogging (field capacity, permanent wilting point)
+- [ ] **Moisture Retention Adequacy**: Substrate water-holding capacity maintains moisture between field capacity and permanent wilting point appropriate for species drought tolerance.
 - [ ] **Root oxygenation sufficient**: Root oxygenation sufficient (air-filled porosity >10-20% depending on species)
+- [ ] **Root Oxygenation Assurance**: Air-filled porosity maintained above species-specific thresholds (10-30%) through substrate selection and irrigation management.
 - [ ] **Nutrient ratios appropriate**: Nutrient ratios appropriate (N:P:K balance, Ca:Mg ratio, micronutrient availability)
+- [ ] **Nutrient Ratio Optimization**: N:P:K ratios, Ca:Mg balance, and micronutrient availability aligned with crop requirements using solution culture or substrate tests.
 - [ ] **Salt accumulation prevented**: Salt accumulation prevented through leaching, substrate replacement, or precision fertigation
+- [ ] **Salt Accumulation Prevention**: Leaching fractions, substrate replacement schedules, or EC monitoring prevent salt buildup above species tolerance thresholds.
 - [ ] **Microbial activity healthy**: Microbial activity healthy (respiration rates, decomposition, beneficial organism populations)
-- [ ] **Peat-free substrates validated**: Peat-free or peat-reduced substrate blends demonstrate equivalent or superior plant performance.
-- [ ] **C:N ratio stabilised**: Carbon-to-nitrogen ratio of organic substrates stabilised preventing nitrogen immobilisation or phytotoxic release.
+- [ ] **Microbial Activity Indicators**: Soil respiration rates, FDA hydrolysis, or enzyme activity assays confirm active microbial decomposition and nutrient cycling.
+- [ ] **Peat-Free Performance Validation**: Crop growth, quality, and resource use efficiency in peat-free substrates equal or exceed peat-based controls in replicated trials.
+- [ ] **Carbon-Nitrogen Dynamics**: Organic substrate C:N ratio stabilized above 20:1 to prevent nitrogen immobilization or below 15:1 to avoid phytotoxic ammonium release.
 
 **Progressed by:**
 
@@ -112,12 +127,17 @@ Continuous measurement of environmental parameters enables real-time assessment 
 **Checklist:**
 
 - [ ] **Sensors deployed**: Sensors deployed measuring soil moisture, temperature, EC, and atmospheric conditions
+- [ ] **Sensor Network Deployment**: Soil moisture, temperature, and EC sensors installed at rooting depth with data transmission to centralized monitoring platforms.
 - [ ] **Data captured continuously**: Data captured continuously and transmitted to centralized platforms (cloud/local server)
+- [ ] **Continuous Data Acquisition**: Environmental parameters sampled every 15-60 minutes and stored in time-series databases accessible via web dashboards.
 - [ ] **Thresholds defined**: Thresholds defined for acceptable ranges triggering alerts when exceeded
+- [ ] **Alert Threshold Configuration**: Upper and lower control limits defined for each parameter with automated SMS/email alerts triggered when thresholds are breached.
 - [ ] **Alerts configured**: Alerts configured for critical events (extreme temperatures, low moisture, high EC)
+- [ ] **Critical Event Notification**: Frost risk, heat stress, drought conditions, or EC spikes trigger immediate alerts to enable rapid intervention.
 - [ ] **Trends analyzed**: Trends analyzed to identify gradual drift or seasonal patterns requiring intervention
-- [ ] **Non-destructive root zone assessment deployed**: Non-destructive root zone assessment techniques provide nutrient uptake pattern information.
-- [ ] **Multi-cycle monitoring records retained**: Environmental monitoring records retained for minimum three production cycles supporting trend analysis.
+- [ ] **Trend Analysis Protocols**: Statistical process control charts, moving averages, or machine learning models identify gradual drift or seasonal patterns requiring adjustment.
+- [ ] **Rhizosphere Imaging Techniques**: Minirhizotrons, electrical resistivity tomography, or neutron probes provide non-destructive root zone assessment data.
+- [ ] **Historical Record Retention**: Environmental monitoring data archived for minimum three production cycles to support multi-season trend analysis and decision-making.
 
 **Progressed by:**
 
@@ -134,12 +154,17 @@ Automated systems adjust conditions in response to sensor feedback and crop requ
 **Checklist:**
 
 - [ ] **Controllers programmed**: Controllers programmed with setpoints and control logic (PID loops, fuzzy logic, rule-based)
+- [ ] **Control Algorithm Implementation**: PID loops, fuzzy logic controllers, or model predictive control algorithms manage HVAC, irrigation, and lighting actuators.
 - [ ] **Actuators respond automatically**: Actuators respond automatically (irrigation valves, HVAC dampers, supplemental lighting)
+- [ ] **Automated Actuator Response**: Solenoid valves, vent motors, or lamp dimmers activate automatically in response to sensor feedback without manual intervention.
 - [ ] **Setpoints adaptive**: Setpoints adaptive to growth stage, weather forecasts, or plant stress indicators
+- [ ] **Adaptive Setpoint Management**: Target values adjust based on plant growth stage, weather forecasts, or real-time stress indicators from plant sensors.
 - [ ] **Feedback loops tuned**: Feedback loops tuned to minimize oscillation and maintain stability
+- [ ] **Feedback Loop Tuning**: Controller gain, integral, and derivative parameters optimized to minimize oscillation and maintain stable environmental conditions.
 - [ ] **System stability maintained**: System stability maintained despite external disturbances (weather, equipment faults)
-- [ ] **In-planta sensor feedback integrated**: Wearable or in-planta sensor technologies provide direct physiological feedback from crop to control system.
-- [ ] **Manual override protocols established**: Override protocols ensure safe manual intervention when automated systems encounter uncalibrated conditions.
+- [ ] **Disturbance Rejection Capability**: Control systems maintain environmental stability despite external weather fluctuations, equipment failures, or power interruptions.
+- [ ] **Plant-Based Sensing Integration**: Sap flow sensors, dendrometers, or leaf temperature measurements provide direct physiological feedback to climate control algorithms.
+- [ ] **Manual Override Safeguards**: Emergency stop buttons, backup control modes, and documented override procedures ensure safe manual intervention when automation fails.
 
 **Progressed by:**
 
@@ -156,12 +181,17 @@ AI-driven forecasting enables proactive environmental modification before stress
 **Checklist:**
 
 - [ ] **Predictive models validated**: Predictive models validated using historical data and crop response trials
+- [ ] **Predictive Model Validation**: Crop water use, heat sum accumulation, or disease risk models validated using 3+ seasons of historical data and field observations.
 - [ ] **Historical data leveraged**: Historical environmental and crop performance data leveraged for model training
+- [ ] **Machine Learning Training**: Neural networks, random forests, or regression models trained on time-series environmental and crop performance data.
 - [ ] **Weather integrated**: Weather forecasts integrated to anticipate irrigation needs, heat stress, or frost risk
+- [ ] **Weather Forecast Integration**: 5-day meteorological forecasts drive pre-emptive irrigation scheduling, ventilation strategies, or frost protection measures.
 - [ ] **Plant responses forecasted**: Plant physiological responses forecasted (growth rate, water use, nutrient uptake)
+- [ ] **Physiological Response Forecasting**: Digital twin models predict photosynthetic rate, transpiration, or nutrient uptake based on forecasted environmental conditions.
 - [ ] **Preemptive adjustments executed**: Preemptive adjustments executed (irrigation scheduling, pre-cooling, pre-heating)
-- [ ] **Rhizosphere microbiome management proactive**: Rhizosphere microbiome management anticipates microbial community shifts and proactively adjusts inputs.
-- [ ] **Microbe-sensor integration deployed**: Microbe-sensor integration platforms combine biological and digital monitoring for predictive management.
+- [ ] **Proactive Intervention Scheduling**: Irrigation events, temperature setpoint changes, or supplemental lighting activated 24-48 hours before stress predicted to occur.
+- [ ] **Microbiome Trajectory Modeling**: Rhizosphere community composition changes anticipated based on substrate age, nutrient inputs, and environmental conditions.
+- [ ] **Sensor-Microbe Fusion Platforms**: Integrated systems combine IoT sensor data with microbial biosensor signals for predictive root zone management.
 
 **Progressed by:**
 

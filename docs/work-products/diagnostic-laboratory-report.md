@@ -18,9 +18,9 @@ Rapid diagnostic outcome from point-of-care testing.
 
 **Checklist:**
 
-- [ ] **Target organism and result recorded**: Target organism, test method, result, and confidence level recorded.
-- [ ] **Controls run alongside samples**: Positive and negative controls run alongside diagnostic samples.
-- [ ] **Kit conditions verified**: Kit storage conditions and expiry dates verified before use.
+- [ ] **Target organism and result**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
+- [ ] **Controls run alongside samples**: Positive and negative controls run alongside diagnostic samples by internal or external auditors.
+- [ ] **Kit conditions verified**: Kit storage conditions and expiry dates verified before use with documented evidence and cross-referenced against RHS standards or equivalent professional benchmarks.
 
 **Contributes to:**
 
@@ -37,9 +37,9 @@ Formal identification to species level using molecular methods.
 
 **Checklist:**
 
-- [ ] **Species-level identification achieved**: Organism identified to species level via morphological and molecular methods.
-- [ ] **EPPO protocols referenced**: EPPO PM 7 diagnostic protocols referenced where applicable.
-- [ ] **Accredited laboratory report provided**: Accredited laboratory provides formal diagnostic report.
+- [ ] **Species-level identification achieved**: Organism identified to species level via morphological and molecular methods with documented evidence and cross-referenced against RHS standards or equivalent professional benchmarks.
+- [ ] **EPPO protocols referenced**: EPPO PM 7 diagnostic protocols referenced where applicable by internal or external auditors.
+- [ ] **Accredited laboratory report provided**: Comprehensive analysis with quantified findings, methodology description, quality assurance documentation, and executive summary suitable for regulatory or stakeholder review.
 
 **Contributes to:**
 
@@ -56,9 +56,9 @@ Comprehensive report with source tracing and risk evaluation.
 
 **Checklist:**
 
-- [ ] **Source tracing completed**: Source tracing and pathway analysis completed for detected organism.
-- [ ] **Geographic spread assessed**: Geographic spread assessment conducted across landscape context.
-- [ ] **Risk evaluation informs response**: Risk evaluation informs containment response and statutory notification.
+- [ ] **Source tracing completed**: Source tracing and pathway analysis completed for detected organism by internal or external auditors.
+- [ ] **Geographic spread assessed**: Geographic spread assessment conducted across landscape context, using established criteria and documented methodology with results validated by qualified practitioners.
+- [ ] **Risk evaluation informs response**: Risk evaluation informs containment response and statutory notification, using established criteria and documented methodology with results validated by qualified practitioners.
 
 **Contributes to:**
 

@@ -46,10 +46,10 @@ STAR narrative for biosecurity protocol implementation.
 
 ## Competencies
 
-- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Masters
-- [Professional Practice](../../../competencies/professional-practice.md) — Applies
+- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Applies
+- [Regulatory & Ethical Practice](../../../competencies/professional-practice.md) — Applies
 
 ## Required Competencies
 
 - [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md)
-- [Professional Practice](../../../competencies/professional-practice.md)
+- [Regulatory & Ethical Practice](../../../competencies/professional-practice.md)

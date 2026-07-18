@@ -46,7 +46,7 @@ STAR narrative for environmental monitoring activities.
 
 ## Competencies
 
-- [Digital Technology](../../../competencies/digital-technology.md) — Masters
+- [Digital Technology](../../../competencies/digital-technology.md) — Applies
 - [Growing Media Management](../../../competencies/growing-media-management.md) — Applies
 - [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 

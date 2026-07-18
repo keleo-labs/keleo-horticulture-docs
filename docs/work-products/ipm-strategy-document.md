@@ -18,9 +18,9 @@ Target organisms with identification and intervention options.
 
 **Checklist:**
 
-- [ ] **Target organisms listed**: All target organisms listed with identification features documented.
-- [ ] **Monitoring methods specified**: Monitoring methods specified for each organism type.
-- [ ] **Intervention options catalogued**: Approved intervention options catalogued per target organism.
+- [ ] **Target organisms listed**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
+- [ ] **Monitoring methods specified**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
+- [ ] **Intervention options catalogued**: Approved intervention options catalogued per target organism by internal or external auditors.
 
 **Contributes to:**
 
@@ -36,10 +36,10 @@ Decision framework with economic injury levels and escalation.
 
 **Checklist:**
 
-- [ ] **EILs documented**: Economic injury levels documented for each significant pest species.
-- [ ] **Action thresholds specify triggers**: Action thresholds specify population density triggering intervention.
-- [ ] **Intervention sequences defined**: Preferred intervention sequences and escalation criteria defined.
-- [ ] **Resistance monitoring baselines established**: Resistance monitoring baselines established for active substances.
+- [ ] **EILs**: Strategic objectives, implementation timeline, success criteria, and resource requirements defined with stakeholder approvals and regular review schedules established.
+- [ ] **Action thresholds specify triggers**: Action thresholds specify population density triggering intervention by internal or external auditors.
+- [ ] **Intervention sequences**: Preferred intervention sequences and escalation criteria defined by internal or external auditors.
+- [ ] **Resistance monitoring baselines**: Resistance monitoring baselines established for active substances, with systematic data collection, trend analysis, and documented response protocols for threshold exceedances.
 
 **Contributes to:**
 
@@ -55,10 +55,10 @@ Comprehensive strategy integrating biological, cultural, and chemical tactics.
 
 **Checklist:**
 
-- [ ] **Biocontrol schedules integrated**: Biological control deployment schedules integrated with cultural practices.
-- [ ] **Chemical use justified with rotation plans**: Chemical use justification records maintained with resistance rotation plans.
-- [ ] **Pollinator risk mitigated**: Pollinator risk mitigation measures documented for all applications.
-- [ ] **Annual programme unified**: Annual programme unifies prevention, monitoring, and intervention tactics.
+- [ ] **Biocontrol schedules integrated**: Biological control deployment schedules integrated with cultural practices, with implementation verified through direct observation, measurements, or documented evidence of operational effectiveness.
+- [ ] **Chemical use justified with rotation**: Chemical use justification records maintained with resistance rotation plans by internal or external auditors.
+- [ ] **Pollinator risk mitigated**: Pollinator risk mitigation measures documented for all applications by internal or external auditors.
+- [ ] **Annual programme unified**: Annual programme unifies prevention, monitoring, and intervention tactics, with systematic data collection, trend analysis, and documented response protocols for threshold exceedances.
 
 **Contributes to:**
 
@@ -77,9 +77,9 @@ Landscape-scale plan with conservation biocontrol habitat design.
 
 **Checklist:**
 
-- [ ] **Conservation habitat designed at landscape scale**: Conservation biocontrol habitat designed at landscape scale.
-- [ ] **Pollinator corridor mapping included**: Pollinator corridor mapping and beneficial arthropod monitoring included.
-- [ ] **Agroecosystem outcome evaluation conducted**: Agroecosystem-level outcome evaluation conducted beyond field boundaries.
+- [ ] **Conservation habitat designed at landscape**: Conservation biocontrol habitat designed at landscape scale by internal or external auditors.
+- [ ] **Pollinator corridor mapping included**: Pollinator corridor mapping and beneficial arthropod monitoring included, with systematic data collection, trend analysis, and documented response protocols for threshold exceedances.
+- [ ] **Agroecosystem outcome evaluation conducted**: Agroecosystem-level outcome evaluation conducted beyond field boundaries, using established criteria and documented methodology with results validated by qualified practitioners.
 
 **Contributes to:**
 

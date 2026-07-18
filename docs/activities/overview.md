@@ -8,7 +8,7 @@ hide:
 [TOC]
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1308" viewBox="0 0 960 1308">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1932" viewBox="0 0 960 1932">
   <defs>
     <style>
       @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
@@ -279,17 +279,109 @@ hide:
     </div>
   </foreignObject>
 </g>
+<line x1="21" y1="48" x2="21" y2="504" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<line x1="21" y1="84" x2="42" y2="84" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,60)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="88" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Develop Business Pl…</text>
 </g>
-<g transform="translate(204, 1228)">
+<line x1="21" y1="144" x2="42" y2="144" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,120)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="148" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Manage Workforce De…</text>
+</g>
+<line x1="21" y1="204" x2="42" y2="204" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,180)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="208" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Administer Contract…</text>
+</g>
+<line x1="21" y1="264" x2="42" y2="264" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,240)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="268" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Conduct Financial P…</text>
+</g>
+<line x1="21" y1="324" x2="42" y2="324" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,300)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="328" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Conduct Strategic B…</text>
+</g>
+<line x1="21" y1="384" x2="42" y2="384" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,360)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="388" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Assess Workforce Ca…</text>
+</g>
+<line x1="21" y1="444" x2="42" y2="444" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,420)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="448" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Embed Organisationa…</text>
+</g>
+<line x1="21" y1="504" x2="42" y2="504" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,480)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="508" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Develop Proactive C…</text>
+</g>
+</g>
+<g transform="translate(246, 1228)">
 <g>
   <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" fill="#ffffff" stroke="#d2d2d2" stroke-width="1" stroke-dasharray="4"/>
-  <text x="12" y="28" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Ensure Compliance &amp;…</text>
+  <text x="12" y="28" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Regulatory Assurance</text>
   <foreignObject x="0" y="0" width="168" height="48">
     <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;gap:8px;padding:12px;height:100%;box-sizing:border-box;background:#fff;border-radius:4px">
       <i class="fa-solid fa-clipboard-check" style="font-size:14px"></i>
-      <span style="font-weight:600;font-size:11px;font-family:sans-serif;color:#151515">Ensure Compliance &amp;…</span>
+      <span style="font-weight:600;font-size:11px;font-family:sans-serif;color:#151515">Regulatory Assurance</span>
     </div>
   </foreignObject>
+</g>
+<line x1="21" y1="48" x2="21" y2="624" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<line x1="21" y1="84" x2="42" y2="84" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,60)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="88" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Establish Regulator…</text>
+</g>
+<line x1="21" y1="144" x2="42" y2="144" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,120)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="148" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Conduct Risk Assess…</text>
+</g>
+<line x1="21" y1="204" x2="42" y2="204" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,180)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="208" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Manage Pesticide Co…</text>
+</g>
+<line x1="21" y1="264" x2="42" y2="264" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,240)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="268" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Manage Environmenta…</text>
+</g>
+<line x1="21" y1="324" x2="42" y2="324" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,300)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="328" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Maintain Profession…</text>
+</g>
+<line x1="21" y1="384" x2="42" y2="384" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,360)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="388" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Manage Phytosanitar…</text>
+</g>
+<line x1="21" y1="444" x2="42" y2="444" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,420)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="448" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Manage Quality Assu…</text>
+</g>
+<line x1="21" y1="504" x2="42" y2="504" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,480)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="508" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Lead Regulatory and…</text>
+</g>
+<line x1="21" y1="564" x2="42" y2="564" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,540)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="568" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Advance Sector Work…</text>
+</g>
+<line x1="21" y1="624" x2="42" y2="624" stroke="rgba(102,102,102,0.8)" stroke-width="3"/>
+<g>
+  <path d="M 0 0 L 168 0 L 180 24 L 168 48 L 0 48 Z" transform="translate(42,600)" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="54" y="628" font-family="sans-serif" font-size="11" font-weight="600" fill="#151515">Implement Proactive…</text>
 </g>
 </g>
 </svg>

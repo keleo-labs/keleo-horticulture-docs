@@ -46,8 +46,8 @@ STAR narrative for pollinator habitat creation.
 
 ## Competencies
 
-- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Adapts
-- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Masters
+- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Applies
+- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 
 ## Required Competencies
 

@@ -18,9 +18,9 @@ Catalogue of observed species compiled through surveys.
 
 **Checklist:**
 
-- [ ] **Species catalogued across taxa**: Plant, invertebrate, bird, and mammal species catalogued.
-- [ ] **Standardised survey methods applied**: Standardised survey methods applied for each taxonomic group.
-- [ ] **Survey timing aligned seasonally**: Survey timing aligned with seasonal activity patterns.
+- [ ] **Species catalogued across taxa**: Plant, invertebrate, bird, and mammal species catalogued by internal or external auditors.
+- [ ] **Standardised survey methods applied**: Standardised survey methods applied for each taxonomic group by internal or external auditors.
+- [ ] **Survey timing aligned seasonally**: Survey timing aligned with seasonal activity patterns by internal or external auditors.
 
 **Contributes to:**
 
@@ -37,9 +37,9 @@ Scored assessment using Biodiversity Metric or equivalent.
 
 **Checklist:**
 
-- [ ] **Habitat types mapped and scored**: Habitat types mapped with extent and condition scored.
-- [ ] **Biodiversity Metric applied**: Biodiversity Metric applied for BNG baseline calculation.
-- [ ] **Connectivity assessed**: Connectivity and strategic significance assessed per methodology.
+- [ ] **Habitat types mapped and scored**: Habitat types mapped with extent and condition scored by internal or external auditors.
+- [ ] **Biodiversity Metric applied**: Plant health metrics, diagnostic findings, and intervention recommendations documented using standardized assessment protocols with photographic evidence and laboratory confirmations where applicable.
+- [ ] **Connectivity assessed**: Connectivity and strategic significance assessed per methodology, using established criteria and documented methodology with results validated by qualified practitioners.
 
 **Contributes to:**
 
@@ -56,9 +56,9 @@ Report demonstrating required percentage gain is achieved.
 
 **Checklist:**
 
-- [ ] **10% biodiversity gain demonstrated**: Minimum 10% biodiversity gain demonstrated using statutory methodology.
-- [ ] **30-year maintenance secured**: Thirty-year maintenance mechanisms contractually secured.
-- [ ] **Monitoring schedules defined**: Monitoring schedules defined for ongoing compliance verification.
+- [ ] **10% biodiversity gain demonstrated**: Minimum 10% biodiversity gain demonstrated using statutory methodology with documented evidence and cross-referenced against RHS standards or equivalent professional benchmarks.
+- [ ] **30-year maintenance secured**: Plant health metrics, diagnostic findings, and intervention recommendations documented using standardized assessment protocols with photographic evidence and laboratory confirmations where applicable.
+- [ ] **Monitoring schedules**: Plant health metrics, diagnostic findings, and intervention recommendations documented using standardized assessment protocols with photographic evidence and laboratory confirmations where applicable.
 
 **Contributes to:**
 

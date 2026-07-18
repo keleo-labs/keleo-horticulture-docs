@@ -47,7 +47,7 @@ STAR narrative for environmental footprint measurement.
 
 ## Competencies
 
-- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Adapts
+- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Applies
 - [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 
 ## Required Competencies

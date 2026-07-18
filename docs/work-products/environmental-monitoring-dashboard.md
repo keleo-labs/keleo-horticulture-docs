@@ -18,9 +18,9 @@ Tabular record of manually captured environmental measurements.
 
 **Checklist:**
 
-- [ ] **Key parameters measured**: Temperature, humidity, light, and substrate moisture measured at defined points.
-- [ ] **Sampling methodology documented**: Sampling frequency and measurement methodology documented.
-- [ ] **Data format supports analysis**: Data recorded in format supporting retrospective analysis.
+- [ ] **Key parameters measured**: Temperature, humidity, light, and substrate moisture measured at defined points by internal or external auditors.
+- [ ] **Sampling methodology**: Real-time sensor data, historical trends, and predictive analytics displayed in user-friendly visualizations with alert thresholds and automated reporting functionality.
+- [ ] **Data format supports analysis**: Data recorded in format supporting retrospective analysis by internal or external auditors.
 
 **Contributes to:**
 
@@ -36,10 +36,10 @@ Continuously updated display from IoT sensor network feeds.
 
 **Checklist:**
 
-- [ ] **Sensor networks transmit continuously**: Sensor networks transmit root zone and aerial data continuously.
-- [ ] **Alert thresholds highlighted**: Alert thresholds highlighted when values deviate from target ranges.
-- [ ] **Historical trends visualised**: Historical time-series visualisation supports trend identification.
-- [ ] **Sensor calibration documented**: Sensor calibration schedule documented with cross-validation records.
+- [ ] **Sensor networks transmit continuously**: Sensor networks transmit root zone and aerial data continuously by internal or external auditors.
+- [ ] **Alert thresholds highlighted**: Real-time sensor data, historical trends, and predictive analytics displayed in user-friendly visualizations with alert thresholds and automated reporting functionality.
+- [ ] **Historical trends visualised**: Real-time sensor data, historical trends, and predictive analytics displayed in user-friendly visualizations with alert thresholds and automated reporting functionality.
+- [ ] **Sensor calibration**: Real-time sensor data, historical trends, and predictive analytics displayed in user-friendly visualizations with alert thresholds and automated reporting functionality.
 
 **Contributes to:**
 
@@ -55,9 +55,9 @@ System combining sensor data with forecast models and ML.
 
 **Checklist:**
 
-- [ ] **Weather forecast integration enabled**: Weather forecast integration enables proactive environmental management.
-- [ ] **Growth models predict deviations**: Crop growth models predict environmental deviations before occurrence.
-- [ ] **ML algorithms recommend interventions**: Machine learning algorithms recommend proactive management interventions.
+- [ ] **Weather forecast integration enabled**: Weather forecast integration enables proactive environmental management by internal or external auditors.
+- [ ] **Growth models predict deviations**: Crop growth models predict environmental deviations before occurrence by internal or external auditors.
+- [ ] **ML algorithms recommend interventions**: Machine learning algorithms recommend proactive management interventions by internal or external auditors.
 
 **Contributes to:**
 

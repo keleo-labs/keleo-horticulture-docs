@@ -42,8 +42,8 @@ STAR narrative for pest management threshold establishment.
 
 ## Competencies
 
-- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Adapts
-- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Masters
+- [Plant Protection Expertise](../../../competencies/plant-protection-expertise.md) — Applies
+- [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 
 ## Required Competencies
 

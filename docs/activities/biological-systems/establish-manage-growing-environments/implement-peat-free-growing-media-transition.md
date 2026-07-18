@@ -47,8 +47,8 @@ STAR narrative for peat-free substrate transition.
 
 ## Competencies
 
-- [Growing Media Management](../../../competencies/growing-media-management.md) — Masters
-- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Masters
+- [Growing Media Management](../../../competencies/growing-media-management.md) — Applies
+- [Environmental Stewardship](../../../competencies/environmental-stewardship.md) — Applies
 - [Plant Science Knowledge](../../../competencies/plant-science-knowledge.md) — Applies
 
 ## Required Competencies

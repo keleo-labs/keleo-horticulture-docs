@@ -28,7 +28,7 @@ Three-act narrative for biosecurity system development.
 ## Related Concerns
 
 - protects: [Plant Health & Development](plant-health-development.md)
-- governed by: [Regulatory Compliance & Standards](../professional-practice/regulatory-compliance-standards.md)
+- governed by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
 - coordinates with: [IPM](plant-protection.md)
 
 ## States
@@ -40,17 +40,17 @@ Regular monitoring for introduced species, emerging pathogens, and unusual sympt
 **Checklist:**
 
 - [ ] **Surveillance protocols established for high-risk p**: Surveillance protocols established for high-risk pathways (imports, transport, visitor entry)
-- [ ] **Inspection protocols established**: Inspection protocols established for incoming plant material and high-risk pathways.
+- [ ] **Pathway Inspection Protocols**: All incoming plant material, tools, equipment, and vehicles inspected using documented checklists before site entry.
 - [ ] **Inspection frequency adequate based on risk assess**: Inspection frequency adequate based on risk assessment (daily, weekly, seasonal)
-- [ ] **Regulated organisms listed**: Regulated organisms and alert lists maintained and updated from EPPO and national sources.
+- [ ] **Diagnostic Capacity Access**: Laboratory services available for confirmatory pathogen identification using ELISA, PCR, or culture-based methods within 48-72 hours.
 - [ ] **Diagnostic capacity available for rapid identifica**: Diagnostic capacity available for rapid identification (molecular methods, reference collections)
-- [ ] **Staff trained in recognition**: Staff trained in recognition of regulated pest symptoms and reporting procedures.
+- [ ] **Notifiable Pest Monitoring**: EPPO A1/A2 list organisms monitored through systematic surveys following ISPM-6 protocols with findings reported to national plant protection organizations.
 - [ ] **Reporting systems functional for notifiable pests/**: Reporting systems functional for notifiable pests/diseases (DEFRA, APHA, EPPO)
-- [ ] **Surveillance network connected**: Surveillance activities connected to national and international reporting networks.
+- [ ] **Staff Competency Verification**: Personnel demonstrate ability to recognize priority pests and diseases through annual practical assessments or certified training programs.
 - [ ] **Records maintained documenting surveillance effort**: Records maintained documenting surveillance effort and findings
-- [ ] **Monitoring frequency risk-based**: Monitoring frequency calibrated to pathway risk and seasonal introduction pressure.
-- [ ] **eDNA sampling deployed**: Environmental DNA sampling deployed at high-risk introduction points extending detection to sub-visual thresholds.
-- [ ] **Sentinel planting networks established**: Sentinel planting networks established in areas of highest introduction risk as early warning systems.
+- [ ] **Early Detection Network Participation**: Enrollment in citizen science programs, sentinel nursery networks, or national pest surveillance schemes with regular data submission.
+- [ ] **Molecular Surveillance Tools**: Environmental DNA sampling, portable qPCR devices, or lateral flow assays enable rapid field screening for regulated organisms.
+- [ ] **Quarantine Pest Target List**: Site-specific high-risk pest profiles developed from import pathways, regional outbreaks, and commodity-specific threat assessments.
 
 **Progressed by:**
 
@@ -69,17 +69,17 @@ Quarantine, sanitation, and phytosanitary protocols minimize introduction and sp
 **Checklist:**
 
 - [ ] **Quarantine facilities operational for high-risk pl**: Quarantine facilities operational for high-risk plant material (imports, propagation material)
-- [ ] **Quarantine facilities operational**: Quarantine facilities operational with independent irrigation and containment.
+- [ ] **Quarantine Infrastructure**: Physically separated isolation facilities with independent irrigation, drainage, and air handling prevent cross-contamination between quarantined and production areas.
 - [ ] **Equipment sanitized between sites or plant populat**: Equipment sanitized between sites or plant populations (boots, tools, machinery)
-- [ ] **Phytosanitary certificates verified**: Phytosanitary certificates verified for all imported plant material.
+- [ ] **Import Documentation Verification**: Plant Health Certificates, CITES permits, and phytosanitary documentation authenticated through government databases before material release from quarantine.
 - [ ] **Plant passports verified for compliance with EU/UK**: Plant passports verified for compliance with EU/UK phytosanitary regulations
-- [ ] **Hygiene protocols enforced**: Hygiene protocols enforced (footbaths, tool sterilization, vehicle wash-down).
+- [ ] **Supplier Accreditation System**: Approved supplier list maintained with annual audits verifying biosecurity compliance, pest management practices, and traceability systems.
 - [ ] **Movement restrictions enforced within and between**: Movement restrictions enforced within and between sites based on risk zones
-- [ ] **Visitor access controlled**: Visitor access controlled with biosecurity briefings and PPE requirements.
+- [ ] **Hygiene Protocol Enforcement**: Footbaths with 2% sodium hypochlorite, dedicated PPE for quarantine areas, and tool sterilization between handling batches prevent passive pathogen spread.
 - [ ] **Access controlled to prevent inadvertent pathogen**: Access controlled to prevent inadvertent pathogen introduction via visitors/vehicles
-- [ ] **Water sources assessed**: Water sources assessed and treated to prevent waterborne pathogen introduction.
-- [ ] **Risk-based import assessment applied**: Risk-based import assessment categorises plant material by pathway risk with enhanced scrutiny for high-risk origins.
-- [ ] **Biocontrol introductions governed by standards**: Biocontrol agent introductions governed by EPPO PM 6 standards preventing new invasive species risks.
+- [ ] **Pathway Risk Assessment**: Import pathways, trade routes, and material origins analyzed for regulated pest risk using EPPO pest risk analysis frameworks.
+- [ ] **Staff Biosecurity Training**: Personnel complete Defra-accredited biosecurity awareness training annually with competency assessments and refresher sessions.
+- [ ] **Entry Point Inspection**: 100% of incoming plant material visually inspected for symptoms, signs, or evidence of regulated organisms before acceptance.
 
 **Progressed by:**
 
@@ -96,17 +96,17 @@ Rapid diagnostic capability identifies outbreaks at low population levels before
 **Checklist:**
 
 - [ ] **Diagnostic tools deployed (PCR, LAMP, ELISA, morph**: Diagnostic tools deployed (PCR, LAMP, ELISA, morphological keys)
-- [ ] **Diagnostic capability mapped**: Diagnostic capability mapped identifying in-house capacity and referral laboratories.
+- [ ] **Targeted Surveillance Protocols**: High-risk genera, recent introductions, and known host plants inspected monthly for EPPO-listed pests using diagnostic protocols.
 - [ ] **Laboratory services accessible with short turnarou**: Laboratory services accessible with short turnaround times (<48 hours for critical pests)
-- [ ] **Rapid test kits available**: Rapid test kits available for priority organisms (LAMP, lateral flow, portable PCR).
+- [ ] **Laboratory Diagnostic Access**: Samples submitted to APHA, Fera, or accredited private labs for confirmatory identification within 48 hours of suspect findings.
 - [ ] **Molecular methods available for definitive identif**: Molecular methods available for definitive identification (DNA barcoding, whole-genome sequencing)
-- [ ] **Sample handling protocols documented**: Sample handling and chain-of-custody protocols documented.
+- [ ] **Molecular Detection Tools**: Portable qPCR devices, LAMP assays, or lateral flow tests enable on-site screening for priority pathogens during routine inspections.
 - [ ] **Diagnostic accuracy validated against reference ma**: Diagnostic accuracy validated against reference material or expert confirmation
-- [ ] **Statutory notification understood**: Statutory notification requirements understood and escalation procedures documented.
+- [ ] **Symptom Recognition Training**: Staff demonstrate ability to distinguish target organism symptoms from abiotic stress, nutrient disorders, or non-regulated pests.
 - [ ] **Early detection enables intervention before widesp**: Early detection enables intervention before widespread establishment
-- [ ] **Detection sensitivity validated**: Detection sensitivity validated against known reference standards.
-- [ ] **Colorimetric LAMP assays available**: Colorimetric LAMP assays enable naked-eye field detection of regulated organisms without laboratory infrastructure.
-- [ ] **Non-traditional compartments surveilled**: Integrated pathogen surveillance covers non-traditional compartments where cryptic reservoirs may persist.
+- [ ] **Trapping Network Deployment**: Pheromone traps, sticky cards, or sentinel plants positioned at entry points and high-risk zones with weekly inspection schedules.
+- [ ] **Notification Trigger Definitions**: Clear criteria define when suspicious findings require escalation to plant health inspectors or national authorities.
+- [ ] **Rapid Response Capacity**: Pre-positioned sampling kits, courier accounts for sample shipment, and emergency contact lists enable 24-hour diagnostic turnaround.
 
 **Progressed by:**
 
@@ -125,17 +125,17 @@ Rapid response interventions prevent spread beyond initial detection sites.
 **Checklist:**
 
 - [ ] **Action plans pre-defined for high-consequence pest**: Action plans pre-defined for high-consequence pests (Xylella, Phytophthora, emerald ash borer)
-- [ ] **Containment zones established**: Containment zones established with movement restrictions and enhanced monitoring.
+- [ ] **Immediate Movement Restriction**: Infested batches isolated within 1 hour of detection with physical barriers, signage, and restricted access protocols activated.
 - [ ] **Response teams mobilized rapidly (within hours or**: Response teams mobilized rapidly (within hours or days of confirmation)
-- [ ] **Affected material isolated**: Affected material isolated, marked, and secured against unauthorized movement.
+- [ ] **Containment Perimeter Establishment**: Minimum 10-meter buffer zones around detection sites marked with barrier tape and subjected to intensive surveillance.
 - [ ] **Buffer zones established around infected sites to**: Buffer zones established around infected sites to limit spread
-- [ ] **Communication protocols activated**: Communication protocols activated notifying relevant authorities and stakeholders.
+- [ ] **Contact Tracing Execution**: All plant material, equipment, or personnel with potential exposure identified through batch records and movement logs.
 - [ ] **Movement of plant material stopped within containm**: Movement of plant material stopped within containment zone
-- [ ] **Buffer zones surveyed**: Buffer zones surveyed to determine extent of spread.
+- [ ] **Official Notification Compliance**: Plant health authorities notified within legal timeframes (24 hours for notifiable pests) with written reports and supporting evidence.
 - [ ] **Eradication protocols initiated (roguing, soil ste**: Eradication protocols initiated (roguing, soil sterilization, chemical treatment)
-- [ ] **Containment effectiveness monitored**: Containment effectiveness monitored through ongoing surveillance.
-- [ ] **Vector management programmes active**: Vector management programmes target arthropod vectors responsible for organism spread within containment zones.
-- [ ] **Traceability systems operational**: Traceability systems enable backward and forward tracking of all exposed plant material.
+- [ ] **Secondary Surveillance Intensification**: Inspection frequency increased to daily within containment zones and weekly in surrounding buffer areas.
+- [ ] **Eradication Equipment Staging**: Autoclaves, incinerators, or approved disposal contractors arranged for immediate destruction of infested material.
+- [ ] **Public Communication Protocols**: Customers, suppliers, and neighboring businesses notified of outbreak status per transparency commitments and legal obligations.
 
 **Progressed by:**
 
@@ -153,17 +153,17 @@ Targeted elimination removes established populations; ecosystem restored.
 **Checklist:**
 
 - [ ] **Population eliminated through sustained eradicatio**: Population eliminated through sustained eradication effort (multi-year campaigns often required)
-- [ ] **Eradication methods selected**: Eradication methods selected based on organism biology, site conditions, and environmental impact.
+- [ ] **Complete Material Destruction**: All infested plants incinerated, autoclaved at 121°C for 20 minutes, or deep-buried per ISPM-15 and national standards.
 - [ ] **Monitoring confirms absence for defined period (ty**: Monitoring confirms absence for defined period (typically 2-5 years post-elimination)
-- [ ] **Host material removed**: Host material removed, destroyed, or treated according to approved protocols.
+- [ ] **Environmental Decontamination**: Growing areas treated with fumigants, steam sterilization, or approved disinfectants following manufacturer protocols and re-entry intervals.
 - [ ] **Native species recover and recolonize formerly inf**: Native species recover and recolonize formerly infested sites
-- [ ] **Post-eradication monitoring implemented**: Post-eradication monitoring implemented for at least two complete life cycles of the target organism.
+- [ ] **Equipment Sanitization Verification**: Tools, benches, pots, and vehicles cleaned and disinfected with ATP swab testing confirming <50 RLU contamination levels.
 - [ ] **Ecosystem functions restored (pollination, nutrien**: Ecosystem functions restored (pollination, nutrient cycling, trophic interactions)
-- [ ] **Re-introduction prevention measures strengthened**: Re-introduction prevention measures strengthened based on pathway analysis.
+- [ ] **Post-Eradication Monitoring**: Surveillance continues for minimum two pest life cycles (species-specific) with zero detections required for clearance.
 - [ ] **Re-invasion prevented through ongoing surveillance**: Re-invasion prevented through ongoing surveillance and prevention protocols
-- [ ] **Eradication success confirmed**: Eradication success confirmed through negative survey results over the defined monitoring period.
-- [ ] **Costs documented and compared**: Environmental and economic costs of eradication documented and compared against non-intervention projected costs.
-- [ ] **Lessons learned captured**: Lessons learned captured in formal after-action review and incorporated into revised protocols.
+- [ ] **Official Release Certification**: Plant Health Inspector conducts final inspection and issues clearance certificate before production resumption.
+- [ ] **Disposal Documentation**: Waste tracking notes, incineration certificates, or burial site records retained for regulatory audits and traceability.
+- [ ] **Lessons Learned Analysis**: Post-incident review identifies introduction pathways, detection delays, or protocol gaps with corrective actions implemented.
 
 **Progressed by:**
 
@@ -176,17 +176,17 @@ Ecosystem diversity and functional redundancy resist future invasions; long-term
 **Checklist:**
 
 - [ ] **Biodiversity high (species richness, functional di**: Biodiversity high (species richness, functional diversity, genetic diversity)
-- [ ] **Response plans tested regularly**: Response plans tested through regular exercises and scenario planning.
+- [ ] **Redundant Barrier Systems**: Multiple physical, procedural, and biological defenses ensure single-point failures don't compromise biosecurity.
 - [ ] **Functional groups diverse (pollinators, herbivores**: Functional groups diverse (pollinators, herbivores, predators, decomposers, mutualists)
-- [ ] **Supply chains diversified**: Supply chains diversified to reduce single-source vulnerability.
+- [ ] **Stress-Test Simulation**: Tabletop exercises or simulated outbreaks test response protocols, communication systems, and resource mobilization capacity.
 - [ ] **Invasibility low due to competitive exclusion and**: Invasibility low due to competitive exclusion and resource pre-emption by native species
-- [ ] **International intelligence shared**: International intelligence networks provide early warning of emerging threats.
+- [ ] **24-Hour Response Capability**: On-call personnel, pre-positioned materials, and documented escalation procedures enable intervention within one business day.
 - [ ] **Monitoring ongoing to detect new incursions early**: Monitoring ongoing to detect new incursions early
-- [ ] **Institutional memory maintained**: Institutional memory maintained through documentation and staff succession planning.
+- [ ] **Continuous Improvement Cycles**: Quarterly biosecurity audits identify vulnerabilities with documented corrective actions tracked to completion.
 - [ ] **Adaptive capacity demonstrated (ecosystem recovers**: Adaptive capacity demonstrated (ecosystem recovers from disturbances, resists novel threats)
-- [ ] **Continuous improvement embedded**: Continuous improvement embedded with regular review cycles and protocol updates.
-- [ ] **Biocontrol portfolio diversified**: Diversified biological control portfolio maintained to IOBC quality standards provides supply chain resilience.
-- [ ] **Simulation exercises conducted**: Regular simulation exercises test and refine biosecurity response plans building institutional readiness.
+- [ ] **Regional Intelligence Sharing**: Participation in industry networks, government surveillance programs, or trade association alerts provides early warning of emerging threats.
+- [ ] **Climate-Adjusted Risk Modeling**: Pest distribution models updated with UKCP18 climate scenarios to anticipate range expansions or altered phenologies.
+- [ ] **Backup Containment Infrastructure**: Alternative quarantine facilities or emergency response equipment available when primary systems offline for maintenance.
 
 **Progressed by:**
 
