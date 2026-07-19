@@ -27,9 +27,9 @@ Three-act narrative for growing environment management evolution.
 
 ## Related Concerns
 
-- supports: [Plant Health & Development](plant-health-development.md)
-- managed by: [Water-Energy-Nutrient Nexus](../production-operations/resource-management.md)
-- provided by: [CEA System Design](../production-operations/production-system-architecture.md)
+- produces: [Plant Health & Development](plant-health-development.md)
+- governed by: [Water-Energy-Nutrient Nexus](../production-operations/resource-management.md)
+- uses: [CEA System Design](../production-operations/production-system-architecture.md)
 
 ## States
 

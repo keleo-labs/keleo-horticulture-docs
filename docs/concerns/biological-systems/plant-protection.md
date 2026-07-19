@@ -28,9 +28,9 @@ STAR narrative for the evolution of integrated plant protection.
 
 ## Related Concerns
 
-- protects: [Plant Health & Development](plant-health-development.md)
+- governed by: [Plant Health & Development](plant-health-development.md)
 - governed by: [Legal and Standards Framework](../professional-practice/regulatory-compliance-standards.md)
-- supports: [Environmental Sustainability](sustainability-environmental-stewardship.md)
+- produces: [Environmental Sustainability](sustainability-environmental-stewardship.md)
 
 ## States
 
@@ -40,15 +40,15 @@ Regular scouting identifies pest/disease presence, species, and population level
 
 **Checklist:**
 
-- [ ] **Inspections scheduled weekly or more frequently du**: Inspections scheduled weekly or more frequently during high-risk periods
+- [ ] **Inspections scheduled weekly or more frequently during high-risk periods**: Inspections scheduled weekly or more frequently during high-risk periods
 - [ ] **Scouting Schedule Adherence**: Weekly field inspections conducted during growing season with increased frequency to twice-weekly during high-risk periods.
-- [ ] **Pests and diseases identified accurately using fie**: Pests and diseases identified accurately using field guides, diagnostic keys, or laboratory confirmation
+- [ ] **Pests and diseases identified accurately using field guides, diagnostic keys, or laboratory confirmation**: Pests and diseases identified accurately using field guides, diagnostic keys, or laboratory confirmation
 - [ ] **Taxonomic Identification Accuracy**: Pests and diseases identified to species level using morphological keys, reference collections, or molecular diagnostics with 95%+ accuracy.
-- [ ] **Populations quantified using standard metrics (ins**: Populations quantified using standard metrics (insects per leaf, disease incidence %, weed density)
+- [ ] **Populations quantified using standard metrics (insects per leaf, disease incidence %, weed density)**: Populations quantified using standard metrics (insects per leaf, disease incidence %, weed density)
 - [ ] **Population Density Quantification**: Standardized metrics applied (insects per leaf, disease incidence percentage, weed density per m²) with data recorded in structured formats.
-- [ ] **Spatial distribution mapped to identify hotspots o**: Spatial distribution mapped to identify hotspots or entry points
+- [ ] **Spatial distribution mapped to identify hotspots or entry points**: Spatial distribution mapped to identify hotspots or entry points
 - [ ] **Spatial Distribution Mapping**: GIS coordinates or field grids map pest hotspots, entry points, or disease foci to inform targeted intervention strategies.
-- [ ] **Trends tracked over time to detect population grow**: Trends tracked over time to detect population growth or decline
+- [ ] **Trends tracked over time to detect population growth or decline**: Trends tracked over time to detect population growth or decline
 - [ ] **Temporal Trend Analysis**: Sequential monitoring data plotted to detect exponential growth, seasonal peaks, or intervention efficacy using time-series statistics.
 - [ ] **Automated Detection Systems**: Computer vision algorithms analyze continuous camera feeds to detect pest presence, disease symptoms, or weed emergence in real-time.
 - [ ] **Beneficial Organism Enumeration**: Natural enemy populations (predators, parasitoids, pollinators) quantified alongside pests to assess biological control potential.
@@ -69,15 +69,15 @@ Economic injury levels and action thresholds determined based on crop value and 
 
 **Checklist:**
 
-- [ ] **Economic injury levels (EIL) researched from exten**: Economic injury levels (EIL) researched from extension literature or calculated for local conditions
+- [ ] **Economic injury levels (EIL) researched from extension literature or calculated for local conditions**: Economic injury levels (EIL) researched from extension literature or calculated for local conditions
 - [ ] **Economic Injury Level Research**: Published EIL values sourced from extension bulletins or calculated locally using crop value, control costs, and pest damage functions.
-- [ ] **Economic impact calculated considering crop value,**: Economic impact calculated considering crop value, yield loss, and control costs
+- [ ] **Economic impact calculated considering crop value, yield loss, and control costs**: Economic impact calculated considering crop value, yield loss, and control costs
 - [ ] **Action Threshold Definition**: Intervention triggers set below EIL considering pest biology, natural enemy presence, and intervention efficacy with documented justification.
-- [ ] **Action thresholds defined below EIL to trigger int**: Action thresholds defined below EIL to trigger intervention before economic damage occurs
+- [ ] **Action thresholds defined below EIL to trigger intervention before economic damage occurs**: Action thresholds defined below EIL to trigger intervention before economic damage occurs
 - [ ] **Local Threshold Calibration**: Generic thresholds validated using multi-season monitoring data from the specific site, crop, and production system.
-- [ ] **Decision criteria explicit and documented in IPM p**: Decision criteria explicit and documented in IPM plans
+- [ ] **Decision criteria explicit and documented in IPM plans**: Decision criteria explicit and documented in IPM plans
 - [ ] **Crop-Pest Matrix Documentation**: Decision rules documented for all major crop-pest combinations with threshold values, monitoring protocols, and intervention hierarchies.
-- [ ] **Thresholds adjusted for crop stage, market conditi**: Thresholds adjusted for crop stage, market conditions, and pest resistance
+- [ ] **Thresholds adjusted for crop stage, market conditions, and pest resistance**: Thresholds adjusted for crop stage, market conditions, and pest resistance
 - [ ] **Staff Training Verification**: All scouting and management personnel demonstrate competency in threshold application through written tests or practical assessments.
 - [ ] **Predictive Threshold Modeling**: Degree-day models, infection period forecasts, or population growth simulations integrate weather data to anticipate threshold crossings.
 - [ ] **IPM Maturity Benchmarking**: Quantitative IPM adoption metrics or IPPM scoring frameworks assess threshold-based decision-making maturity against industry standards.
@@ -99,7 +99,7 @@ Cultural, mechanical, and biological practices reduce pest establishment and spr
 
 - [ ] **Sanitation protocols implemented (debris removal,**: Sanitation protocols implemented (debris removal, equipment cleaning, weed control)
 - [ ] **Resistant Cultivar Deployment**: Varieties with documented R-gene resistance, field tolerance ratings, or multi-season performance data selected based on pest pressure history.
-- [ ] **Resistant cultivars selected where available (dise**: Resistant cultivars selected where available (disease resistance genes, pest tolerance)
+- [ ] **Resistant cultivars selected where available (disease resistance genes, pest tolerance)**: Resistant cultivars selected where available (disease resistance genes, pest tolerance)
 - [ ] **Crop Rotation Protocols**: Minimum 2-3 year rotations with non-host crops disrupt soil-borne pathogen cycles, break pest life cycles, or reduce weed seed banks.
 - [ ] **Crop rotation planned to break pest/disease cycles**: Crop rotation planned to break pest/disease cycles
 - [ ] **Sanitation Standard Operating Procedures**: Plant debris removal within 24 hours of detection, tool sterilization between plots, and footbath hygiene enforced through checklists.
@@ -121,15 +121,15 @@ Interventions (biological, chemical, mechanical) deployed when thresholds exceed
 
 **Checklist:**
 
-- [ ] **Biological controls released first (predatory inse**: Biological controls released first (predatory insects, parasitoids, entomopathogenic nematodes, microbial pesticides)
+- [ ] **Biological controls released first (predatory insects, parasitoids, entomopathogenic nematodes, microbial pesticides)**: Biological controls released first (predatory insects, parasitoids, entomopathogenic nematodes, microbial pesticides)
 - [ ] **Biological Control Prioritization**: Predatory mites, parasitoid wasps, entomopathogenic nematodes, or microbial pesticides deployed before synthetic chemicals considered.
-- [ ] **Targeted applications executed (spot treatments, b**: Targeted applications executed (spot treatments, banded applications, precision spraying)
+- [ ] **Targeted applications executed (spot treatments, banded applications, precision spraying)**: Targeted applications executed (spot treatments, banded applications, precision spraying)
 - [ ] **Chemical Control Thresholds**: Synthetic pesticides applied only when biological controls fail, thresholds exceeded, or severe outbreak risk documented in written justification.
-- [ ] **Mode-of-action rotated to prevent resistance devel**: Mode-of-action rotated to prevent resistance development
+- [ ] **Mode-of-action rotated to prevent resistance development**: Mode-of-action rotated to prevent resistance development
 - [ ] **Application Record Completeness**: COSHH forms document product name, rate, target pest, weather conditions, buffer zones, PPE used, and applicator certification for every treatment.
-- [ ] **Non-target impact minimized through selective prod**: Non-target impact minimized through selective products, timing, and application methods
+- [ ] **Non-target impact minimized through selective products, timing, and application methods**: Non-target impact minimized through selective products, timing, and application methods
 - [ ] **Post-Application Monitoring**: Pest population counts repeated 3-7 days after intervention to quantify control efficacy and inform resistance management decisions.
-- [ ] **Efficacy confirmed through post-treatment monitori**: Efficacy confirmed through post-treatment monitoring
+- [ ] **Efficacy confirmed through post-treatment monitoring**: Efficacy confirmed through post-treatment monitoring
 - [ ] **Non-Target Impact Mitigation**: Spray drift reduction nozzles, targeted banding, or timing applications outside pollinator foraging hours minimize beneficial organism mortality.
 - [ ] **Dual-Function Biocontrol**: Beauveria bassiana or Metarhizium anisopliae deployed as both direct entomopathogens and plant endophytes inducing systemic resistance.
 - [ ] **Precision Robotic Weeding**: Vision-guided laser targeting, electrocution, or mechanical removal systems achieve 95%+ weed control with 95%+ herbicide reduction.
@@ -145,15 +145,15 @@ Multi-tactic IPM strategy prevents resistance development, reduces inputs, and m
 
 **Checklist:**
 
-- [ ] **IPM plan documented specifying prevention, monitor**: IPM plan documented specifying prevention, monitoring, threshold, and intervention tactics
+- [ ] **IPM plan documented specifying prevention, monitoring, threshold, and intervention tactics**: IPM plan documented specifying prevention, monitoring, threshold, and intervention tactics
 - [ ] **Multi-Tactic Coordination**: Written IPM plans integrate cultural practices, host resistance, biological controls, and chemical options with decision rules for tactic selection.
-- [ ] **Multiple tactics coordinated (cultural + biologica**: Multiple tactics coordinated (cultural + biological + chemical when necessary)
+- [ ] **Multiple tactics coordinated (cultural + biological + chemical when necessary)**: Multiple tactics coordinated (cultural + biological + chemical when necessary)
 - [ ] **Resistance Management Strategy**: Mode-of-action rotation, mosaic strategies, or refuge planting protocols implemented per IRAC/FRAC/HRAC resistance management guidelines.
-- [ ] **Resistance management active (refugia, mode-of-act**: Resistance management active (refugia, mode-of-action rotation, biocontrol integration)
+- [ ] **Resistance management active (refugia, mode-of-action rotation, biocontrol integration)**: Resistance management active (refugia, mode-of-action rotation, biocontrol integration)
 - [ ] **Economic Viability Demonstration**: IPM program costs (labor, materials, monitoring) lower than calendar-spray baseline or yield/quality premiums justify additional investment.
-- [ ] **Input use declining over time as ecosystem balance**: Input use declining over time as ecosystem balance improves
+- [ ] **Input use declining over time as ecosystem balance improves**: Input use declining over time as ecosystem balance improves
 - [ ] **IPM Competency Development**: Annual training programs ensure staff can identify beneficial insects, interpret thresholds, and deploy biological controls with 90%+ success rates.
-- [ ] **Beneficial organism populations stable or increasi**: Beneficial organism populations stable or increasing
+- [ ] **Beneficial organism populations stable or increasing**: Beneficial organism populations stable or increasing
 - [ ] **Continuous Improvement Cycles**: Annual IPM program reviews analyze threshold accuracy, intervention efficacy, and cost-effectiveness with documented protocol adjustments.
 - [ ] **Pollinator Protection Protocols**: All pesticide applications assessed using USEPA bee toxicity ratings with timing restrictions, protective buffer zones, or alternative products selected.
 - [ ] **Quantified Pesticide Reduction**: Chemical active ingredient use reduced 50%+ compared to calendar-spray baseline with reduction documented using Treatment Frequency Index or Pesticide Load metrics.
@@ -175,13 +175,13 @@ Beneficial organism populations self-regulate pest levels; system resilience hig
 
 **Checklist:**
 
-- [ ] **Natural enemies abundant (predator:prey ratios fav**: Natural enemies abundant (predator:prey ratios favorable, parasitism rates high)
+- [ ] **Natural enemies abundant (predator:prey ratios favorable, parasitism rates high)**: Natural enemies abundant (predator:prey ratios favorable, parasitism rates high)
 - [ ] **Self-Sustaining Natural Enemies**: Predator and parasitoid populations persist through off-season or low-pest periods without augmentative releases for 2+ consecutive years.
-- [ ] **Pest outbreaks rare and localized, requiring minim**: Pest outbreaks rare and localized, requiring minimal intervention
+- [ ] **Pest outbreaks rare and localized, requiring minimal intervention**: Pest outbreaks rare and localized, requiring minimal intervention
 - [ ] **Trophic Regulation Dynamics**: Pest outbreaks limited to 10-20% of outbreak levels observed in non-IPM systems through established predator-prey feedback loops.
-- [ ] **Chemical pesticide use minimal or zero (only for e**: Chemical pesticide use minimal or zero (only for emergency outbreaks)
+- [ ] **Chemical pesticide use minimal or zero (only for emergency outbreaks)**: Chemical pesticide use minimal or zero (only for emergency outbreaks)
 - [ ] **Near-Zero Synthetic Pesticide Use**: Chemical pesticide applications <1 per season with documented justification (quarantine pests, regulatory compliance) for any exceptions.
-- [ ] **Ecosystem functions restored (pollination, nutrien**: Ecosystem functions restored (pollination, nutrient cycling, soil health)
+- [ ] **Ecosystem functions restored (pollination, nutrient cycling, soil health)**: Ecosystem functions restored (pollination, nutrient cycling, soil health)
 - [ ] **Ecosystem Resilience Validation**: Pest pressure rebounds within 4-8 weeks of removal without chemical intervention, demonstrating functional biological control capacity.
 - [ ] **Biodiversity enhanced (native species, functional**: Biodiversity enhanced (native species, functional diversity, trophic complexity)
 - [ ] **Landscape-Scale Coordination**: Multi-farm pest management plans, coordinated pheromone mating disruption, or area-wide monitoring programs extend IPM beyond property boundaries.

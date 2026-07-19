@@ -32,8 +32,8 @@ Transformation narrative for plant health management from reactive to regenerati
 
 - uses: [Growing Environment](growing-environment.md)
 - governed by: [Biosecurity](biosecurity-ecosystem-health.md)
-- protected by: [IPM](plant-protection.md)
-- enhanced by: [Environmental Sustainability](sustainability-environmental-stewardship.md)
+- governed by: [IPM](plant-protection.md)
+- uses: [Environmental Sustainability](sustainability-environmental-stewardship.md)
 
 ## States
 

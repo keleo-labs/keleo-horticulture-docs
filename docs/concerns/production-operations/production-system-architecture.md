@@ -31,10 +31,10 @@ Narrative describing the transformation from traditional greenhouse design to au
 
 ## Related Concerns
 
-- provides: [Growing Environment](../biological-systems/growing-environment.md)
-- requires: [Technical Infrastructure](technical-infrastructure.md)
-- constrained by: [Water-Energy-Nutrient Nexus](resource-management.md)
-- optimized by: [Precision Agriculture Technology](digital-integration.md)
+- produces: [Growing Environment](../biological-systems/growing-environment.md)
+- uses: [Technical Infrastructure](technical-infrastructure.md)
+- governed by: [Water-Energy-Nutrient Nexus](resource-management.md)
+- uses: [Precision Agriculture Technology](digital-integration.md)
 
 ## States
 
@@ -46,13 +46,13 @@ System architecture selected based on crop requirements, site constraints, and o
 
 - [ ] **System type chosen (field production, greenhouse,**: System type chosen (field production, greenhouse, vertical farm, NFT, DWC, aeroponics, nursery)
 - [ ] **Structural Loading**: Structural load analysis for wind, snow, and seismic conditions is completed using validated finite element analysis.
-- [ ] **Site suitability assessed (climate, water availabi**: Site suitability assessed (climate, water availability, energy access, proximity to markets)
+- [ ] **Site suitability assessed (climate, water availability, energy access, proximity to markets)**: Site suitability assessed (climate, water availability, energy access, proximity to markets)
 - [ ] **Cultivation System**: Cultivation system type is selected with documented rationale covering capital cost, water efficiency, and labour requirements.
-- [ ] **Capital budget established with cost-benefit analy**: Capital budget established with cost-benefit analysis and financial projections
+- [ ] **Capital budget established with cost-benefit analysis and financial projections**: Capital budget established with cost-benefit analysis and financial projections
 - [ ] **Climate Control Strategy**: Climate control strategy is specified, distinguishing passive techniques from active systems with quantified energy budgets.
 - [ ] **Crop compatibility confirmed (light requirements,**: Crop compatibility confirmed (light requirements, root zone depth, environmental tolerances)
 - [ ] **Envelope Materials**: Growing environment envelope materials are specified with quantified PAR transmission and thermal performance.
-- [ ] **Risk analysis completed (weather, pests, market vo**: Risk analysis completed (weather, pests, market volatility, technology reliability)
+- [ ] **Risk analysis completed (weather, pests, market volatility, technology reliability)**: Risk analysis completed (weather, pests, market volatility, technology reliability)
 - [ ] **Energy Budget**: Energy budget projections incorporating HVAC, lighting, and dehumidification loads are documented against ASHRAE benchmarks.
 - [ ] **Spatial Layout**: Spatial layout optimizes material flow, labour efficiency, and resource distribution with documented travel route analysis.
 - [ ] **Design Compliance**: Design compliance with BS EN 13031-1:2019 or equivalent structural standards is formally verified.
@@ -72,15 +72,15 @@ Infrastructure installed with appropriate materials, spatial configuration, and 
 
 **Checklist:**
 
-- [ ] **Structural integrity verified (engineering calcula**: Structural integrity verified (engineering calculations, building codes, wind/snow loads)
+- [ ] **Structural integrity verified (engineering calculations, building codes, wind/snow loads)**: Structural integrity verified (engineering calculations, building codes, wind/snow loads)
 - [ ] **Structural Assembly**: Structural assembly meets tolerance specifications with documented dimensional verification.
-- [ ] **Materials quality confirmed (UV-resistant glazing,**: Materials quality confirmed (UV-resistant glazing, food-safe plastics, corrosion-resistant metals)
+- [ ] **Materials quality confirmed (UV-resistant glazing, food-safe plastics, corrosion-resistant metals)**: Materials quality confirmed (UV-resistant glazing, food-safe plastics, corrosion-resistant metals)
 - [ ] **Foundation Systems**: Foundation systems are installed and verified for load-bearing capacity under specified environmental conditions.
-- [ ] **Spatial layout optimized for workflow efficiency (**: Spatial layout optimized for workflow efficiency (access, material handling, ergonomics)
+- [ ] **Spatial layout optimized for workflow efficiency (access, material handling, ergonomics)**: Spatial layout optimized for workflow efficiency (access, material handling, ergonomics)
 - [ ] **Cladding and Envelope**: Cladding and envelope systems are installed with verified PAR transmission matching design specifications.
-- [ ] **Safety codes met (electrical, structural, fire, em**: Safety codes met (electrical, structural, fire, emergency exits)
+- [ ] **Safety codes met (electrical, structural, fire, emergency exits)**: Safety codes met (electrical, structural, fire, emergency exits)
 - [ ] **Cultivation Infrastructure**: Cultivation infrastructure including benching, channels, and reservoirs is physically installed.
-- [ ] **Commissioning plan developed (testing, calibration**: Commissioning plan developed (testing, calibration, training, documentation)
+- [ ] **Commissioning plan developed (testing, calibration, training, documentation)**: Commissioning plan developed (testing, calibration, training, documentation)
 - [ ] **Passive Climate Control**: Passive climate control elements including ventilation openings and shading systems are constructed to specification.
 - [ ] **Construction Documentation**: Construction documentation including as-built drawings and material certifications is complete and archived.
 
@@ -98,13 +98,13 @@ Systems tested, calibrated, and validated for operational parameters.
 
 **Checklist:**
 
-- [ ] **Equipment functional (pumps, fans, heaters, cooler**: Equipment functional (pumps, fans, heaters, coolers, lights, sensors)
+- [ ] **Equipment functional (pumps, fans, heaters, coolers, lights, sensors)**: Equipment functional (pumps, fans, heaters, coolers, lights, sensors)
 - [ ] **Climate Control Testing**: Climate control systems are tested under representative load conditions with measured performance against design targets.
-- [ ] **Setpoints calibrated against design specifications**: Setpoints calibrated against design specifications (temperature, humidity, light intensity, nutrient EC/pH)
+- [ ] **Setpoints calibrated against design specifications (temperature, humidity, light intensity, nutrient EC/pH)**: Setpoints calibrated against design specifications (temperature, humidity, light intensity, nutrient EC/pH)
 - [ ] **Hydraulic Verification**: Cultivation system hydraulics are verified for flow uniformity, leak integrity, and nutrient delivery consistency.
-- [ ] **Safety interlocks tested (emergency stops, pressur**: Safety interlocks tested (emergency stops, pressure relief, thermal cutoffs)
+- [ ] **Safety interlocks tested (emergency stops, pressure relief, thermal cutoffs)**: Safety interlocks tested (emergency stops, pressure relief, thermal cutoffs)
 - [ ] **Energy Benchmarking**: Energy consumption is benchmarked against design projections using metered data from initial operating period.
-- [ ] **Performance benchmarked against design targets (en**: Performance benchmarked against design targets (energy efficiency, uniformity, reliability)
+- [ ] **Performance benchmarked against design targets (energy efficiency, uniformity, reliability)**: Performance benchmarked against design targets (energy efficiency, uniformity, reliability)
 - [ ] **KPI Baselines**: Key performance indicators spanning productivity, resource use, and environmental impact are baselined quantitatively.
 - [ ] **Documentation complete (manuals, wiring diagrams,**: Documentation complete (manuals, wiring diagrams, maintenance schedules, operator training records)
 - [ ] **Safety Systems**: Safety systems, emergency shutoffs, and structural failsafes are tested and certified as operational.
@@ -127,11 +127,11 @@ Routine production cycles executed with consistent environmental control and cro
 
 - [ ] **Standard operating procedures (SOPs) followed for**: Standard operating procedures (SOPs) followed for planting, irrigation, fertigation, climate control
 - [ ] **Production Cycles**: Multiple complete production cycles have been executed with documented yield, quality, and resource data.
-- [ ] **Environmental targets met consistently (±2°C tempe**: Environmental targets met consistently (±2°C temperature, ±10% humidity, ±5% light intensity)
+- [ ] **Environmental targets met consistently (±2°C temperature, ±10% humidity, ±5% light intensity)**: Environmental targets met consistently (±2°C temperature, ±10% humidity, ±5% light intensity)
 - [ ] **Climate Management**: Climate control parameters are managed within defined setpoint ranges with deviation response procedures.
-- [ ] **Crop schedules maintained (planting dates, harvest**: Crop schedules maintained (planting dates, harvest windows, succession cycles)
+- [ ] **Crop schedules maintained (planting dates, harvest windows, succession cycles)**: Crop schedules maintained (planting dates, harvest windows, succession cycles)
 - [ ] **Nutrient Delivery**: Nutrient delivery and irrigation cycles are executed on defined schedules with routine chemistry monitoring.
-- [ ] **Quality standards achieved (uniformity, marketabil**: Quality standards achieved (uniformity, marketability, shelf life)
+- [ ] **Quality standards achieved (uniformity, marketability, shelf life)**: Quality standards achieved (uniformity, marketability, shelf life)
 - [ ] **Labour Tracking**: Labour allocation across production tasks is tracked and compared against operational budgets.
 - [ ] **Downtime minimized through preventive maintenance**: Downtime minimized through preventive maintenance and rapid fault response
 - [ ] **Resource Recovery**: Closed-loop resource recovery systems are operational with measured recirculation rates.
@@ -151,15 +151,15 @@ Data-driven refinements improve efficiency, output quality, and resource utiliza
 
 **Checklist:**
 
-- [ ] **Performance data analyzed (yield per m², crop cycl**: Performance data analyzed (yield per m², crop cycle duration, resource use intensity)
+- [ ] **Performance data analyzed (yield per m², crop cycle duration, resource use intensity)**: Performance data analyzed (yield per m², crop cycle duration, resource use intensity)
 - [ ] **Dynamic Resource Allocation**: Dynamic resource allocation adjusts energy inputs based on real-time grid pricing signals and crop demand models.
-- [ ] **Bottlenecks identified (light limitation, nutrient**: Bottlenecks identified (light limitation, nutrient imbalances, spatial constraints)
+- [ ] **Bottlenecks identified (light limitation, nutrient imbalances, spatial constraints)**: Bottlenecks identified (light limitation, nutrient imbalances, spatial constraints)
 - [ ] **Spectral Lighting**: Spectral lighting strategies are tuned to crop growth stage with demonstrated yield or quality improvements.
-- [ ] **Improvements implemented (equipment upgrades, layo**: Improvements implemented (equipment upgrades, layout modifications, protocol refinements)
+- [ ] **Improvements implemented (equipment upgrades, layout modifications, protocol refinements)**: Improvements implemented (equipment upgrades, layout modifications, protocol refinements)
 - [ ] **Computational Refinement**: Structural and operational parameters are refined using computational optimization with documented performance gains.
-- [ ] **Efficiency gains measured (reduced energy per kg o**: Efficiency gains measured (reduced energy per kg output, faster crop turnover, higher first-grade yields)
+- [ ] **Efficiency gains measured (reduced energy per kg output, faster crop turnover, higher first-grade yields)**: Efficiency gains measured (reduced energy per kg output, faster crop turnover, higher first-grade yields)
 - [ ] **KPI Improvement**: Production KPIs show measurable improvement trends across successive cycles against commissioned baselines.
-- [ ] **Best practices documented and replicated across pr**: Best practices documented and replicated across production units
+- [ ] **Best practices documented and replicated across production units**: Best practices documented and replicated across production units
 - [ ] **Energy Optimization**: Energy optimization strategies have achieved documented reductions through LED efficiency, smart HVAC, or renewables.
 - [ ] **Resource Efficiency**: Resource use efficiency metrics exceed industry benchmark thresholds for the production system type.
 
@@ -179,15 +179,15 @@ AI-managed systems require minimal human intervention; self-diagnosing and self-
 
 **Checklist:**
 
-- [ ] **AI controllers deployed managing multi-objective o**: AI controllers deployed managing multi-objective optimization (yield, quality, resource efficiency, cost)
+- [ ] **AI controllers deployed managing multi-objective optimization (yield, quality, resource efficiency, cost)**: AI controllers deployed managing multi-objective optimization (yield, quality, resource efficiency, cost)
 - [ ] **Digital Twin Models**: Digital twin models replicate production system behaviour with sufficient fidelity to predict yield and simulate changes.
-- [ ] **Autonomous decisions validated against crop perfor**: Autonomous decisions validated against crop performance and business objectives
+- [ ] **Autonomous decisions validated against crop performance and business objectives**: Autonomous decisions validated against crop performance and business objectives
 - [ ] **AI Climate Control**: AI-based climate control algorithms autonomously manage temperature, humidity, CO2, and lighting without routine intervention.
-- [ ] **Human oversight strategic (exception handling, goa**: Human oversight strategic (exception handling, goal-setting, ethical review) rather than operational
+- [ ] **Human oversight strategic (exception handling, goal-setting, ethical review) rather than operational**: Human oversight strategic (exception handling, goal-setting, ethical review) rather than operational
 - [ ] **Autonomous Performance**: Autonomous control performance matches or exceeds experienced human grower outcomes across complete crop cycles.
-- [ ] **Self-diagnostics functional (fault detection, root**: Self-diagnostics functional (fault detection, root cause analysis, predictive maintenance scheduling)
+- [ ] **Self-diagnostics functional (fault detection, root cause analysis, predictive maintenance scheduling)**: Self-diagnostics functional (fault detection, root cause analysis, predictive maintenance scheduling)
 - [ ] **Self-optimizing Loops**: Self-optimizing feedback loops adjust production parameters in response to real-time sensor data and predictive models.
-- [ ] **Continuous learning enabled (reinforcement learnin**: Continuous learning enabled (reinforcement learning, model retraining, performance feedback loops)
+- [ ] **Continuous learning enabled (reinforcement learning, model retraining, performance feedback loops)**: Continuous learning enabled (reinforcement learning, model retraining, performance feedback loops)
 - [ ] **Anomaly Detection**: Anomaly detection and autonomous fault response reduce unplanned production interruptions below defined thresholds.
 - [ ] **Strategic Oversight**: Human oversight is limited to strategic decisions, exception handling, and system evolution.
 
